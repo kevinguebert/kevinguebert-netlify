@@ -20,10 +20,7 @@ Rebels are the smallest Tendency out of all of the Four Tendencies. Rebels *resi
 
 Since Rebels resist both outer and inner expectations, the best thing you can do when working/living with a Rebel is frame the expectation as a choice for the Rebel to make. Provide all the facts and information but any pressure applied that sets an expectation will not work. Rebels need to feel like it is something they are in control of and that they decided. Rebels also respond well to challenges - if a Rebel wants to lose weight, it may be better to say "looks like you aren't going to the gym today" instead of asking "are you headed to the gym?" The second statement would most likely get a "no" and rebellion of not going to the gym because someone else is expecting them to go to the gym.
 
---
-
 Famous Questioners: Chris Guillebeau (Author of *The $100 Startup*)
 
----
 
 Post inspired by *The Four Tendencies* by Gretchen Rubin.

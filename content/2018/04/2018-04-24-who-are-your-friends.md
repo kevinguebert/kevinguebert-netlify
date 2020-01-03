@@ -27,6 +27,5 @@ So what does Dr. Peterson recommend? There are tips scattered throughout the cha
 
 Rule 3 makes you think about your life and your friendships. Examine them and ask yourself if you would recommend that person as a friend to others. If you wouldn't, find out why. Dr. Peterson states "it's a good thing, not a selfish thing, to choose people who are good for you" (82). Lastly though, Dr. Peterson also states the opposite - it is selfish to use some of these justifications for leaving someone truly in need. Take some time and reflect today on those relationships in your life: maybe you think you may be "saving" someone when in fact you could be doing more harm than good, maybe there are relationships where it is not reciprocal, maybe it is time to reevaluate your position. At the end of the day, look to the rule - "make friends with people who want the best for you."
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

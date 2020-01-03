@@ -27,6 +27,5 @@ But that isn't enough. If you have started, **could you be doing more? Are you g
 
 We can always do better - going soft is the opposite of what we want. We want action, progress, efficiency. If you want to get started, if you want to build that momentum, you have to **do**, you have to **go**, you have to **start.** That is all up to you. It will take courage, but, at the most basic form, courage is "really just taking action." So get up, get after it, and get moving.
 
----
 
 Post inspired from: **The Obstacle is the Way** by Ryan Holiday.

@@ -23,10 +23,8 @@ All tendencies have a weakness though. You may find Upholders can seem "cold" wh
 
 What do you think? Does that sound like you? Or do you know someone who falls into this category? Well if you know that about a person, that can help you in your interactions. If you are frustrated because your coworker or spouse isn't being "letting loose" and doing something that bends the rules, it may be because they are an Upholder. Or maybe you have an appointment and the Upholder is pressuring you to get ready quickly so you won't be late - don't take that as being mean or cold-hearted, that's just who they are.
 
---
 
 Famous Upholders: Hermoine Granger
 
----
 
 Post inspired by *The Four Tendencies* by Gretchen Rubin.

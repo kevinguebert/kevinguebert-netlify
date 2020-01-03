@@ -10,6 +10,5 @@ Remember back to your first job that you ever got - like job-job. This could hav
 
 Ryan Holiday throws in the last tip about clearing the path - you then decide where to go.
 
----
 
 Post inspired from: **Ego is the Enemy** by Ryan Holiday.

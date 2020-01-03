@@ -18,6 +18,5 @@ This idea permeates multiple areas of our life - below is a chart from Reddit, a
 
 ###### [(Source)](https://www.reddit.com/r/JordanPeterson/comments/6dhbbg/prices_law_and_pareto_distributions_everywhere/?st=jg6iebzx&amp;sh=50a5f792)
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

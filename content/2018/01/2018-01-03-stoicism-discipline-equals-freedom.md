@@ -22,6 +22,4 @@ Ten pages later, Jocko provides us hope with these questions. I am not going to 
 
 And he provides more hope - "It is never too late to make that choice...Choose to make yourself smarter and stronger and healthier...Don't let nature or nuture make you. Choose to Make. Your. Self." (39) Next time then when I start comparing myself to others, start looking at successful people, I have to remind myself that it is a choice. A choice that I can also make.
 
----
-
 [Download Epictetus Wallpaper](https://photos.app.goo.gl/tztrT92NxOAY3PiL2)

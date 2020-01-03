@@ -18,6 +18,4 @@ To get started, check out her [online quiz](http://www.bit.ly/HabitsQuiz) to hel
 
 ###### Image from GretchenRubin.com
 
----
-
 Post inspired by *The Four Tendencies* by Gretchen Rubin.

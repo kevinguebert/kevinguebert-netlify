@@ -19,6 +19,5 @@ When talking about a software architect (SA), Keeling points out 5 specific resp
 
 One of the first things I've noticed so far is that it has said nothing about programming. Does a software architect program? I'm not quite sure. From previous experiences, it seems like they know and understand coding, but maybe not syntax of specific languages or nuances? There's more to learn!
 
----
 
 Post inspired from: **Design It! From Programmer to Software Architect** by Michael Keeling.

@@ -23,10 +23,8 @@ No tendency is perfect though. To others, Questioners may seem like "not a team 
 
 What do you think? Does that sound like you? Or do you know someone who falls into this category? A good way to help and work with a Questioner is by setting constraints on them. To avoid analysis-paralysis, give the Questioner a deadline or have them max out at a couple options and make them choose from those. For a new car, give them 5 options and a deadline by the end of the month. That way their research is focused but also under a time constraint. Also when dealing with a Questioner, have a "why" for your statements. Giving them "because so-and-so said so" or "because it's always been done that way" will not satisfy a Questioner. "Why do we need to floss every night?" "Because floss helps prevents ABC which then helps your teeth with XYZ."
 
---
 
 Famous Questioners: Jane Eyre
 
----
 
 Post inspired by *The Four Tendencies* by Gretchen Rubin.

@@ -22,6 +22,4 @@ While playing with Alexa, I wondered how cool it would be if everyone who had an
 
 It would be difficult though - getting commands from voice data points to X,Y positions on a canvas would be...tricky to say the least. But, in a skewed way of thinking (and with some technical prowess), you could imagine that people could then "paint" or "create art" with their voice.
 
----
-
 Have any thoughts about this? Let me know [@kevinguebert](http://twitter.com/kevinguebert).

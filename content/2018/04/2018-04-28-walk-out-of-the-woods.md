@@ -14,6 +14,5 @@ Okay this may be a bit against the norm here, but, reading that quote above talk
 
 Why did I find it more depressing than funny? What you learn about the Appalachian Trail does not give you hope for the future. Bryson consistently mentions the problems and ailments of it all - species going extinct, plants and forests disappearing, commercialization, and park rangers that "don't care." His stories revolve more around what could have been instead of appreciating what is currently there. It all seems more like a story of complaining about what those in the past did instead of offering a solution for the future. Farmers took down a patch of trees that now lays barren? What can you do to see the positive instead of sit and complain? Maybe it's more of a realist approach, but after reading *Walk in the Woods*, I would say I was convinced more to not hike the Appalachian Trail instead of inspired to see its wonders.
 
----
 
 Post inspired by *Walk in the Woods: Rediscovering America on the Appalachian Trail* by Bill Bryson.

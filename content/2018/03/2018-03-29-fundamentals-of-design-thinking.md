@@ -24,6 +24,5 @@ Look at what has already been built and explore these patterns and past designs.
 
 If we want to share our design and architecture, we need to make it tangible through drawings, prototypes, models, and other tangible representations. This then helps the Human Rule in helping humans understand the architecture.
 
----
 
 Post inspired from: **Design It! From Programmer to Software Architect** by Michael Keeling.

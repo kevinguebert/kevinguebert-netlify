@@ -16,6 +16,5 @@ Last night while doing a weekly check-in call with my good friend Joe, we talked
 
 He water concoction is water, salt, and some a little bit of lemon to replenish the body of being dehydrated all night. Then "blast" yourself with blue-light from the sun (after every sleep cycle, including naps). Finally, light exercise to get the blood flowing. He does 23 burpees, but anything including yoga can help. Why does he prescribe this? To get your day started on the right foot. Don't roll over in bed, hit snooze, check social media immediately, and let others define how you feel in the morning. Start your day off under your control and get your body moving.
 
----
 
 Post inspired by *Own the Day, Own Your Life* by Aubrey Marcus

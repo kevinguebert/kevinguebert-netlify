@@ -18,6 +18,4 @@ Both of these are tools to help one anticipate and act correctly. These tools he
 
 Part of this however is that one may seem like a pessimist. When you are always imagining the possible failures, many of which may not even come to pass, it may seem like a pessimistic point of view. But, to challenge that, is it not better to be prepared for what could happen then to be caught suprised? One can discover the weakness in plans and know how to react and counter any scenario when they arrive. It is far better to be prepared for a scenario than to have the scenario catch you by surprise.
 
----
-
 Post inspired from: **The Obstacle is the Way** by Ryan Holiday.

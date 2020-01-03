@@ -10,6 +10,5 @@ Yesterday I talked a bit about ways to change your perception: being object, con
 
 Next time you face an obstacle, a challenge, or a problem, try taking a step back. Have a conversation with yourself - do I need to freak out over this? What if this was happening to someone else? What am I missing?
 
----
 
 Post inspired from: **The Obstacle is the Way** by Ryan Holiday.

@@ -30,6 +30,5 @@ In the end, there is the problem. No one is taking enough vacation. Since everyo
 
 What's the solution? I don't have it - maybe a required minimum to start. Otherwise, those 2-week policies aren't looking too bad anymore.
 
----
 
 Post inspired from: **Algorithms to Live By** by Brian Christian and Tom Griffiths.

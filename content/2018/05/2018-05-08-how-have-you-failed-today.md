@@ -15,6 +15,5 @@ What a powerful question. What have you failed at this week? The founder of Span
 1. It normalizes failures. If you ask yourself this question every day, failing doesn't seem like that big of a deal. It "loses some of its menace."
 2. It requires you to stretch. When you are pushed to fail every day or every week, it requires you to get outside your comfort zone, outside your box, and push yourself to do something you hadn't before. If you fail, you learn. And when you've been failing every day, it doesn't seem like that big of a deal when you fail again - you know how to get yourself back up and push forward.
 
----
 
 Post inspired by *The Power of Moments* by Chip Heath & Dan Heath

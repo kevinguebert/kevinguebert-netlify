@@ -24,6 +24,4 @@ Be sure to follow [Jocko on Twitter](http://twitter.com/@jockowillink) to see hi
 
 Pro-tip from Joe: Jocko has an album out call **Psychological Warfare** on Google Play and iTunes where the first track is called "Wake up and Get After it". Set that bad boy as your alarm and it will be tough staying in bed with Jocko's voice right next to you.
 
----
-
 Post inspired from: **Discipline Equals Freedom Field Manual** by Jocko Willink.

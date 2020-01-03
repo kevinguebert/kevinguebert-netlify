@@ -16,6 +16,4 @@ However, I'm going to be honest, when I finished the book I had one burning ques
 
 But the "is it possible?" question isn't really meant to challenge the validity of the book - that isn't what the question is direct at. The question is for myself. It's for us, you and me. While reading the book it, it starts to implant a small thought into your own brain: can I do that? It would be extreme to invite someone in to our own home for 30 days to live with us 24/7. But, what about those pushups? What about those pull-ups? There was no "failure" living with SEAL - it takes as long as it is going to take to complete the exercise. So the next question I have for myself and for you is - why aren't I? Why aren't you? Jesse can do it. SEAL can do it. Many other people can do it. There are no excuses and the only left to do is **to do it.**
 
----
-
 So what am I going to do about it? Well, it starts with pushups.

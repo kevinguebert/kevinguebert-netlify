@@ -26,6 +26,5 @@ Here is a sampling:
 
 Now those are just 3 questions out of 36, but check out [36 Questions to Bring You Closer Together](https://www.psychologytoday.com/us/blog/open-gently/201310/36-questions-bring-you-closer-together) to view all of them and [Art Aron's study](http://journals.sagepub.com/doi/pdf/10.1177/0146167297234003) to learn more. Then, challenge yourself today to take one relationship and push *a little* deeper than usual and see what happens.
 
----
 
 Post inspired by *The Power of Moments* by Chip Heath & Dan Heath

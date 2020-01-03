@@ -20,6 +20,5 @@ Need help completing that task? You can tie a reward with it. "If I pay all my b
 
 **"What could I do, that I would do, to make Life a little better?"**
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

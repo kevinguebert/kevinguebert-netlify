@@ -12,6 +12,5 @@ In that regard, I became a bit more active and attentive in reading **Mind Hacki
 
 At the end of the day, this would be a good book to have around "resolution" time. Whenever that is for you, twice a year, once a quarter, or whenever, this book is a good reminder of the process to help you go through to meet those resolutions and achieve your goals.
 
----
 
 Post inspired by **Mind Hacking: How to Change Your Mind for Good in 21 Days** by Sir John Hargrave.

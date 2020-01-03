@@ -22,6 +22,5 @@ Ryan outlines 8 steps for how to use our perception the correct way when facing 
 6. Place things in perspective - will that small thing today matter tomorrow?
 7. Focus on what can be controlled - at the end of the day, we can only really change what we can control
 
----
 
 Post inspired from: **The Obstacle is the Way** by Ryan Holiday.

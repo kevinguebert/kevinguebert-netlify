@@ -14,6 +14,4 @@ When talking about jobs and comparing millenials to the older generations, often
 
 Maybe then, one of the first employees at a new company should be a great HR representative that puts culture first instead of all-star employees that may let their ego's get in the way.
 
----
-
 Post inspired from: **Smarter Faster Better. The Secrets of Being Productive in Life and Business** by Charles Duhigg.

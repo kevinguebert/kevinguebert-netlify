@@ -10,7 +10,6 @@ excerpt: "> 'We deserve some respect. You deserve some respect. You are importan
 
 The second Rule of Life from Dr. Peterson is titled "Treat yourself like someone you are responsible for helping." Now, to be honest, this chapter took a bit to get in to. It seems like there is a big digression from the original point, but Dr. Peterson ties it all back together in a nice bow to help get the full impact.
 
----
 
 ## Your Pet is Healthier Than You
 
@@ -40,6 +39,5 @@ If you are interested in answering these questions and learning more about yours
 
 [Self Authoring](https://selfauthoring.com/)
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

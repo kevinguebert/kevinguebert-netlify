@@ -26,10 +26,8 @@ As with lobsters, humans also fall in the tendency of creating loops within our 
 
 Dr. Peterson's first rule is then simple - **Stand Up Straight  With Your Shoulders Back**. Standing up means you are facing life as it is - you are accepting the responsibilities and burden of life. When you do that, your central nervous system and brain can then respond differently to events. Instead of getting hit with a problem and accepting defeat, you see it as a challenge. When you face a challenge instead of backing down, you then start creating positive loops that reinforce what you are doing. Instead of slouching over, head down, looking small which indicates defeat and a low "status", you are "deciding to voluntarily transform the chaos of potential into the realities of habitable order" (27). Standing up straight releases serotonin into your neural pathways which help face the challenges and the obstacles, and then helps you overcome them. The positive loop continues on. People start noticing you and assume that you are "competent and able", adding onto the positive feedback look. From there, "you will find it easier to pay attention to subtle social clues," "your conversations will flow better," and "you'll be more likely to meet with people" (28). Dr. Peterson even states that standing up straight will "genuinely increase the probably that good things will happen to you" (28).
 
----
 
 As you continue your day going forward, start making mental notes of when you feel slouched over, head down. Recognize what may have led to that scenario, grab it by the horns, and stand up straight. Go for a walk around your office standing straight with your shoulders back. That step forward will help push you towards the right positive feedback loop.
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

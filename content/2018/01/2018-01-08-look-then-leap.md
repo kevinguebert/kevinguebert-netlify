@@ -76,7 +76,6 @@ Successes: [2,1,3], [2,3,1], [3,1,2]
 
 Failures: [1,2,3], [1,3,2], [3,2,1]
 
----
 
 To continue on an enumerate more candidates - 4, 5, 6, etc. - the place where you end up drawing the line between looking and leaping is actually 37% (the 37% Rule).
 
@@ -86,14 +85,11 @@ When choosing the best candidate, you only have a 37% chance of hiring the best 
 
 **How it works:** You look at the first 37% of the applicants, not choosing any of them, then after that, leap for anyone that is better than all those you have seen so far.
 
----
 
 Next time you are making a decision over a large amount of data and you are trying to decide the "best", it may be worth it to consider this algorithm!
 
---
 
 Have any questions or comments? Let me know in the comments below.
 
----
 
 Post inspired from: **Algorithms to Live By** by Brian Christian and Tom Griffiths.

@@ -17,11 +17,10 @@ When looking at the two people - the professionals vs amateurs - the difference 
 Along the way though, our ego is going to get in the way. Our ego wants our ideas, wants us to aspire to something, it wants that attention and glory of saying you are going to do something (echoing a previous post, The Dope Addiction). But in saying something, we are not progressing - there is no work being done.
 
 > "When you are not practicing, someone out there is, and when you meet him, he will win"
-> 
+>
 > Bill Bradley
 
 Practice. Work. Improve. Every time you sit down to work on that side project, to study, to prepare for an exam, to do your homework, remind yourself that the work you are doing is an investment in yourself. Do the work.
 
----
 
 Post inspired from: **Ego is the Enemy** by Ryan Holiday.

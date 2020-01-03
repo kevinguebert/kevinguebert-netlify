@@ -12,6 +12,5 @@ An inspiring end to *Own the Day, Own Your Life* - learn to forgive yourself bec
 
 > "Your day is never going to be perfect...But that doesn't mean I don't wake up and do my best the next day" (365)
 
----
 
 Post inspired by *Own the Day, Own Your Life* by Aubrey Marcus

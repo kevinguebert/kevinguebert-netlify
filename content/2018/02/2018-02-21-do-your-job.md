@@ -20,6 +20,5 @@ What's the point of it though? That's a question with a simple answer: to do you
 
 Each small thing you do is part of the larger goal. Don't forget that goal, but also remember the small moments as those are what help you reach your goal.
 
----
 
 Post inspired from: **The Obstacle is the Way** by Ryan Holiday.

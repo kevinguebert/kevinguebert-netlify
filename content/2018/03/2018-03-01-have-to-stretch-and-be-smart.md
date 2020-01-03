@@ -14,6 +14,4 @@ Duhigg then crafts a better way to create goals by combining two different syste
 
 What does this all mean? Next time you do a yearly review with your boss or you are trying to accomplish something, set a Stretch goal first. Something that seems almost impossible. Then break that down into smaller SMART goals that will build up and help you achieve that Stretch. You've got to Stretch and be SMART about it.
 
----
-
 Post inspired from: **Smarter Faster Better. The Secrets of Being Productive in Life and Business** by Charles Duhigg.

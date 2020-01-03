@@ -16,6 +16,5 @@ Back in January of this year, I read Jocko Willink's *Extreme Ownership* book wh
 
 > "Stop acting in that particular, despicable manner. Stop saying those things that make you weak and ashamed. Say only those things that make you strong. Do only those things that you could speak of with honour." (158)
 
----
 
 Post inspired by *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson.

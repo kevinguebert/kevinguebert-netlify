@@ -12,6 +12,5 @@ Conversation ended, but that last part kind of stuck with me. It made me questio
 
 Dr. Longo seems to share this sentiment. He states that the hype around intermittent fasting "allows people to improve and pick and choose periods of fasting...giving the impression that just because they all involve some period of 'abstention from food' they are similar or equivalent and all provide health benefits" (101). That however, is not true. There is definitely a difference between "skipping a meal" and "fasting." Dr. Longo defines that fasting can only be "periods of abstention from food lasting two or  three days or more" (101). Fasting is not skipping breakfast that day or not eating a meal. If you chain those days together, then you start to get the effects and benefits of fasting. But don't cheat or label what you are doing anything else, the only person you are really hurting is yourself.
 
----
 
 Post inspired by *The Longevity Diet* by Dr. Valter Longo

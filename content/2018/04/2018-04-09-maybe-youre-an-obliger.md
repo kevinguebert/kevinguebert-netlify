@@ -19,10 +19,7 @@ Obligers are the most populous Tendency out of all of them, so it may not be sur
 
 Obligers benefit most from external accountability. Whether that is a coach, an instructor, a friend, a spouse, or an app, external accountability helps Obligers change those inner expectations into outer expectations they can hold themselves accountable for. The external accountability can be as simple as disappointing your family if you don't make it home for dinner (if you have a lot of work) or being charged a payment if you don't make a fitness class; external accountability helps Obligers meet their inner goals while also balancing their external expectations.
 
---
 
 Famous Questioners: Tiger Woods
-
----
 
 Post inspired by *The Four Tendencies* by Gretchen Rubin.

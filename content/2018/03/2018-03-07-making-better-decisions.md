@@ -16,6 +16,4 @@ But it isn't a linear process like it looks above - it's a circle. So after you 
 
 The benefit to this process and the key ingredient to it is the experimentation. This process is meant to be quick and used often. Conduct the experiment, see if it resulted in positive or negative results, and then keep on conducting experiments. Refine the data to get smaller and smaller data sets to see if you can manipulate them. Creating a process for all your decisions will help you not get locked into a "this makes sense to do X" without thinking about the alternate side. Add distruption to your decisions by gathering all the data, creating the lists that outline the pros and cons for each decision, and then acting.
 
----
-
 Post inspired from: **Smarter Faster Better. The Secrets of Being Productive in Life and Business** by Charles Duhigg.
