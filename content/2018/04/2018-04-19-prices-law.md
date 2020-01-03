@@ -1,9 +1,11 @@
 ---
 title: "Price's Law"
-path: "/2018/04/19/prices-law"
+slug: "prices-law"
 date: "2018-04-19T21:46:00.000Z"
 tags: ["12 Rules for Life","Books"]
-excerpt: "> To those who have everything, more will be given; from those who have nothing, everything will be taken. -Matthew 25:29
+draft: false
+template: "post"
+description: "> To those who have everything, more will be given; from those who have nothing, everything will be taken. -Matthew 25:29
 
 You have heard of this **Price's Law** before without realizing there was a..."
 ---

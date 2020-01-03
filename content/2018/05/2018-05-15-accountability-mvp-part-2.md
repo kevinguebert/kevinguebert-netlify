@@ -1,9 +1,11 @@
 ---
 title: "Accountability MVP Part 2"
-path: "/2018/05/15/accountability-mvp-part-2"
+slug: "accountability-mvp-part-2"
 date: "2018-05-16T00:22:00.000Z"
 tags: ["Personal Growth","Coding","Technology"]
-excerpt: "[Three days ago](/blog/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the..."
+draft: false
+template: "post"
+description: "[Three days ago](/blog/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the..."
 ---
 
 [Three days ago](/blog/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the calendar](/accountability-calendar/). Now, the progress may not look like much, but I've simplified it much much more coding-wise and made it more extensible.

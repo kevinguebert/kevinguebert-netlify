@@ -1,9 +1,11 @@
 ---
 title: "The Myth of Unlimited Vacation Days"
-path: "/2018/01/19/the-myth-of-unlimited-vacation-days"
+slug: "the-myth-of-unlimited-vacation-days"
 date: "2018-01-20T02:42:00.000Z"
 tags: ["Algorithms to Live By","Books"]
-excerpt: "> Job Perks:
+draft: false
+template: "post"
+description: "> Job Perks:
 
 - Unlimited Vacation Days
 

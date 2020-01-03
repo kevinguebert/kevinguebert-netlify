@@ -1,9 +1,11 @@
 ---
 title: "Identify Your Tendency"
-path: "/2018/04/04/identify-your-tendency"
+slug: "identify-your-tendency"
 date: "2018-04-04T22:28:00.000Z"
 tags: ["The Four Tendencies","Books","Personal Growth"]
-excerpt: "Over the next couple posts, I will be talking about the Four Tendencies describe in Gretchen Rubin's *The Four Tendencies.* However, before I go into them, I want to give you the resources available..."
+draft: false
+template: "post"
+description: "Over the next couple posts, I will be talking about the Four Tendencies describe in Gretchen Rubin's *The Four Tendencies.* However, before I go into them, I want to give you the resources available..."
 ---
 
 Over the next couple posts, I will be talking about the Four Tendencies describe in Gretchen Rubin's *The Four Tendencies.* However, before I go into them, I want to give you the resources available to figure out your own tendency.

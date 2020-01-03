@@ -1,9 +1,11 @@
 ---
 title: "Sell It For Free"
-path: "/2018/03/19/sell-it-for-free"
+slug: "sell-it-for-free"
 date: "2018-03-19T21:45:00.000Z"
 tags: ["Perennial Seller","Books","Startups","Marketing"]
-excerpt: "> 'The problem for most artists isn't piracy, it's obscurity' - Tim O'Reilly (128)
+draft: false
+template: "post"
+description: "> 'The problem for most artists isn't piracy, it's obscurity' - Tim O'Reilly (128)
 
 The rise of the freemium model in products can be shown very clearly on a graph. Over the past couple of years we..."
 ---

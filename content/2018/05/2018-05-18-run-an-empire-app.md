@@ -1,9 +1,11 @@
 ---
 title: "Run an Empire App"
-path: "/2018/05/18/run-an-empire-app"
+slug: "run-an-empire-app"
 date: "2018-05-19T00:22:00.000Z"
 tags: ["Apps","Health","Fitness"]
-excerpt: "Today's post is a small break from my regular-like posts. I'm a big fan of running, and I'm a big fan of discipline and tools that help people reach their goals. Over a year ago (maybe even two?), I..."
+draft: false
+template: "post"
+description: "Today's post is a small break from my regular-like posts. I'm a big fan of running, and I'm a big fan of discipline and tools that help people reach their goals. Over a year ago (maybe even two?), I..."
 ---
 
 Today's post is a small break from my regular-like posts. I'm a big fan of running, and I'm a big fan of discipline and tools that help people reach their goals. Over a year ago (maybe even two?), I came across [Run an Empire](http://www.runanempire.com/) to help combine those two passions of mine. What is Run an Empire? You know those games where you build settlements, collect coins, protect your village, and all that jazz? Well those games don't require you to do anything besides stay glued to your phone as much as possible. Run an Empire takes a different approach - if you want to advance in the game, you **have to run**. You collect territories (hexes) but running through them. The more you run, the more coins you collect, the more you are able to build. Run an Empire promotes running to build your "empire" and not sitting around tapping a million times.

@@ -1,9 +1,11 @@
 ---
 title: "Accountability MVP Part 3"
-path: "/2018/05/16/accountability-mvp-part-3"
+slug: "accountability-mvp-part-3"
 date: "2018-05-17T00:22:00.000Z"
 tags: ["Coding","Personal Growth","Technology"]
-excerpt: "Okay so I've become a bit wrapped up in the [Accountability Calendar](/accountability-calendar/) - and by wrapped up I mean working on it because it is fun.
+draft: false
+template: "post"
+description: "Okay so I've become a bit wrapped up in the [Accountability Calendar](/accountability-calendar/) - and by wrapped up I mean working on it because it is fun.
 
 Some new features:
 

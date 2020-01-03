@@ -1,9 +1,11 @@
 ---
 title: "Listen to this podcast - Tim Ferriss interviews Terry Crews"
-path: "/2018/01/13/listen-to-this-podcast-tim-ferriss-interviews-terry-crews"
+slug: "listen-to-this-podcast-tim-ferriss-interviews-terry-crews"
 date: "2018-01-14T02:38:00.000Z"
 tags: ["Personal Growth","Recommendations"]
-excerpt: "I've found my favorite podcast of this year. Granted we are only 14 days into it, but if I were to recommend any podcast right now to anyone, I would highly recommend Tim Ferriss' interview of Terry..."
+draft: false
+template: "post"
+description: "I've found my favorite podcast of this year. Granted we are only 14 days into it, but if I were to recommend any podcast right now to anyone, I would highly recommend Tim Ferriss' interview of Terry..."
 ---
 
 I've found my favorite podcast of this year. Granted we are only 14 days into it, but if I were to recommend any podcast right now to anyone, I would highly recommend Tim Ferriss' interview of Terry Crews title [Terry Crews — How to Have, Do, and Be All You Want](https://tim.blog/2017/12/20/terry-crews-how-to-have-do-and-be-all-you-want/).

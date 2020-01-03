@@ -1,9 +1,11 @@
 ---
 title: "Responsibilities of a Software Architect"
-path: "/2018/03/27/responsibilities-of-a-software-architect"
+slug: "responsibilities-of-a-software-architect"
 date: "2018-03-27T21:59:00.000Z"
 tags: ["Design It","Books","Coding"]
-excerpt: "While reading this new book, my posts may become more programming based. I will try and throw in some other more personal-growth posts in along with it, but today's posts is from the verrrryyy first..."
+draft: false
+template: "post"
+description: "While reading this new book, my posts may become more programming based. I will try and throw in some other more personal-growth posts in along with it, but today's posts is from the verrrryyy first..."
 ---
 
 While reading this new book, my posts may become more programming based. I will try and throw in some other more personal-growth posts in along with it, but today's posts is from the verrrryyy first chapter of *Design It!*.

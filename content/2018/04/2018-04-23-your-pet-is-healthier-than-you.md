@@ -1,9 +1,11 @@
 ---
 title: "Your Pet is Healthier Than You"
-path: "/2018/04/23/your-pet-is-healthier-than-you"
+slug: "your-pet-is-healthier-than-you"
 date: "2018-04-23T21:47:00.000Z"
 tags: ["12 Rules for Life","Books"]
-excerpt: "> 'We deserve some respect. You deserve some respect. You are important to other people, as much as to yourself. You are, therefore, morally obliged to take care of yourself.' (62) The second Rule of..."
+draft: false
+template: "post"
+description: "> 'We deserve some respect. You deserve some respect. You are important to other people, as much as to yourself. You are, therefore, morally obliged to take care of yourself.' (62) The second Rule of..."
 ---
 
 > "We deserve some respect. You deserve some respect. You are important to other people, as much as to yourself. You are, therefore, morally obliged to take care of yourself." (62)

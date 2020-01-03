@@ -1,9 +1,11 @@
 ---
 title: "Sleep & Discipline"
-path: "/2018/01/06/using-sleep-full-potential"
+slug: "using-sleep-full-potential"
 date: "2018-01-07T02:33:00.000Z"
 tags: ["Discipline Equals Freedom","Jocko Willink","Books","Health","Sleep"]
-excerpt: "Sleep can be elusive. It can be frustrating. It can be restless. It can be tiring. But sleep can also be fruitful and it can re-energize. Everyone needs to sleep.
+draft: false
+template: "post"
+description: "Sleep can be elusive. It can be frustrating. It can be restless. It can be tiring. But sleep can also be fruitful and it can re-energize. Everyone needs to sleep.
 
 I'm going to be frank with you: I am..."
 ---

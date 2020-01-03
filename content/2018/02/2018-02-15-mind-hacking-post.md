@@ -1,9 +1,11 @@
 ---
 title: "Mind Hacking"
-path: "/2018/02/15/mind-hacking-post"
+slug: "mind-hacking-post"
 date: "2018-02-16T02:54:00.000Z"
 tags: ["Books","Personal Growth","Mind Hacking"]
-excerpt: "I don't recall where I heard about this book - maybe it was on a recommended list, maybe someone mentioned it in a podcast, maybe a Tweet - but in any regards, this book caters to a specific audience...."
+draft: false
+template: "post"
+description: "I don't recall where I heard about this book - maybe it was on a recommended list, maybe someone mentioned it in a podcast, maybe a Tweet - but in any regards, this book caters to a specific audience...."
 ---
 
 I don't recall where I heard about this book - maybe it was on a recommended list, maybe someone mentioned it in a podcast, maybe a Tweet - but in any regards, this book caters to a specific audience. Luckily, I fall in that specific audience. **Mind Hacking** uses "geek" like terms and programming analogies to get specific points across. There are actually even code snippets in the text, chapter titles have arrows in them (), and the book references the beginning of Apple, how the internet was born, and important computer scientists across the ages.

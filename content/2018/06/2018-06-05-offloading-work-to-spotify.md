@@ -1,9 +1,11 @@
 ---
 title: "Offloading Work to Spotify"
-path: "/2018/06/05/offloading-work-to-spotify"
+slug: "offloading-work-to-spotify"
 date: "2018-06-05T12:55:38.000Z"
 tags: ["Technology","Startups","Ideas","Coding","Harvy Dev"]
-excerpt: "Hopefully by now you've had the chance to [Meet Harvy](/2018/06/02/meet-harvy/). In its very starter and simple phase, Harvy uses your songs in your playlists to determine the playlist for you. There..."
+draft: false
+template: "post"
+description: "Hopefully by now you've had the chance to [Meet Harvy](/2018/06/02/meet-harvy/). In its very starter and simple phase, Harvy uses your songs in your playlists to determine the playlist for you. There..."
 ---
 
 Hopefully by now you've had the chance to [Meet Harvy](/2018/06/02/meet-harvy/). In its very starter and simple phase, Harvy uses your songs in your playlists to determine the playlist for you. There are some pros and cons to this approach:

@@ -1,9 +1,11 @@
 ---
 title: "Create, Not Consume"
-path: "/2018/05/02/create-not-consume"
+slug: "create-not-consume"
 date: "2018-05-03T00:11:00.000Z"
 tags: ["Reflection","Personal Growth"]
-excerpt: "Close out of Reddit. Close out of Facebook. Close out of Twitter.
+draft: false
+template: "post"
+description: "Close out of Reddit. Close out of Facebook. Close out of Twitter.
 
 10 minutes later, back on Reddit, back on Facebook, back on Twitter.
 

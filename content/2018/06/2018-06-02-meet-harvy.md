@@ -1,9 +1,11 @@
 ---
 title: "Meet Harvy (Beta)"
-path: "/2018/06/02/meet-harvy"
+slug: "meet-harvy"
 date: "2018-06-02T12:05:48.000Z"
 tags: ["Technology","Startups","Ideas","Coding","Harvy Dev"]
-excerpt: "For the past 2 years, I've been struggling with a fairly simple problem. Whenever I would get ready to run a race, whether it is a 5k or a marathon, I would also frantically struggle at the end..."
+draft: false
+template: "post"
+description: "For the past 2 years, I've been struggling with a fairly simple problem. Whenever I would get ready to run a race, whether it is a 5k or a marathon, I would also frantically struggle at the end..."
 ---
 
 For the past 2 years, I've been struggling with a fairly simple problem. Whenever I would get ready to run a race, whether it is a 5k or a marathon, I would also frantically struggle at the end crafting the perfect playlist. I wanted a playlist that fit parameters for that race - a 5k is quick, short, and needs to be pumpup music the whole way while a marathon is a long haul, and you need more a variety to sustain you.

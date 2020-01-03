@@ -1,9 +1,11 @@
 ---
 title: "April Review"
-path: "/2018/05/01/april-review"
+slug: "april-review"
 date: "2018-05-02T00:11:00.000Z"
 tags: ["Reflection","Personal Growth"]
-excerpt: "April is over, May is here. Time to check in on those goals.
+draft: false
+template: "post"
+description: "April is over, May is here. Time to check in on those goals.
 
 > Goal: By Memorial Day 2018, I want to have 100 new posts on a website about something I have learned.
 

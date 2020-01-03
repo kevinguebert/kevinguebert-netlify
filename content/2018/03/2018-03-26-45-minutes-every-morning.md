@@ -1,9 +1,11 @@
 ---
 title: "45 Minutes Every Morning"
-path: "/2018/03/26/45-minutes-every-morning"
+slug: "45-minutes-every-morning"
 date: "2018-03-26T21:57:00.000Z"
 tags: ["$100 Startup","Books","Startups"]
-excerpt: "> Every morning, set aside forty-tive minutes without internet access. Devote this time exclusively to activities that improve your business -nothing that merely maintains the business. Think forward..."
+draft: false
+template: "post"
+description: "> Every morning, set aside forty-tive minutes without internet access. Devote this time exclusively to activities that improve your business -nothing that merely maintains the business. Think forward..."
 ---
 
 > Every morning, set aside forty-tive minutes without internet access. Devote this time exclusively to activities that improve your business -nothing that merely maintains the business. Think forward motion...What can you do to keep things moving ahead?

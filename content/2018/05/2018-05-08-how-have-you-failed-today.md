@@ -1,9 +1,11 @@
 ---
 title: "How Have You Failed Today?"
-path: "/2018/05/08/how-have-you-failed-today"
+slug: "how-have-you-failed-today"
 date: "2018-05-09T00:18:00.000Z"
 tags: ["The Power of Moments","Books","Marketing"]
-excerpt: "> 'What did you guys fail at this week?' (130)
+draft: false
+template: "post"
+description: "> 'What did you guys fail at this week?' (130)
 
 What a powerful question. What have you failed at this week? The founder of Spanxx, Sara Blakely, was asked this question at the dinner table every..."
 ---

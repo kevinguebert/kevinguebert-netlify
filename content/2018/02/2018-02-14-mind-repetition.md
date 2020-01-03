@@ -1,9 +1,11 @@
 ---
 title: "Mind Repetition"
-path: "/2018/02/14/mind-repetition"
+slug: "mind-repetition"
 date: "2018-02-15T02:53:00.000Z"
 tags: ["Books","Personal Growth"]
-excerpt: "*Lather. Rinse. Repeat.* When working on personal-growth, getting better, and working towards out goals, repetition is key. It takes discipline and doing that task every day to form it into a habit..."
+draft: false
+template: "post"
+description: "*Lather. Rinse. Repeat.* When working on personal-growth, getting better, and working towards out goals, repetition is key. It takes discipline and doing that task every day to form it into a habit..."
 ---
 
 *Lather. Rinse. Repeat.* When working on personal-growth, getting better, and working towards out goals, repetition is key. It takes discipline and doing that task every day to form it into a habit which while hopefully lead to success. Sir John Hargrave proposes 3 different ways that can help "remind your mind" with these goals.

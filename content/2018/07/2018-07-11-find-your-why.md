@@ -1,9 +1,11 @@
 ---
 title: "Find Your Why"
-path: "/2018/07/11/find-your-why"
+slug: "find-your-why"
 date: "2018-07-11T12:18:23.000Z"
 tags: ["Personal Growth"]
-excerpt: "*Post inspired by this morning's journal*
+draft: false
+template: "post"
+description: "*Post inspired by this morning's journal*
 
 When you are deep into a workout, whether it is your final half mile of a run, last repetition of your squat, or last minute of your AMRAP, what pushes you..."
 ---

@@ -2,6 +2,7 @@
 title: Build Your First Alexa App
 slug: build-your-first-alexa-app
 draft: false
+template: "post"
 date: 2017-04-04T21:36:00.000Z
 description: >-
   In today's tutorial we are going to set up a very basic Amazon Alexa Skill
@@ -20,10 +21,10 @@ The data source we are going to be using is called Drone Stream - [http://dr
 
 Here's an example of the structure returned:
 
-    {  
+    {
       "status":"OK",
-      "strike":[  
-        {  
+      "strike":[
+        {
           "_id":"55c79e711cbee48856a30886",
           "number":1,
           "country":"Yemen",
@@ -44,16 +45,16 @@ Here's an example of the structure returned:
           "target":"",
           "lat":"15.47467",
           "lon":"45.322755",
-          "articles":[  
+          "articles":[
           ],
-          "names":[  
+          "names":[
             "Qa'id Salim Sinan al-Harithi, Abu Ahmad al-Hijazi, Salih Hussain Ali al-Nunu, Awsan Ahmad al-Tarihi, Munir Ahmad Abdallah al-Sauda, Adil Nasir al-Sauda'"
           ]
         }
     ...
       ]
     }
-    
+
 
 Let's get started.
 
@@ -95,16 +96,16 @@ For today's session, here are the intents:
         { "intent": "AMAZON.CancelIntent" }
       ]
     }
-    
+
 
 And here are the sample utterances:
 
-    GetRecentDroneStrike recent drone strike  
-    GetRecentDroneStrike what was the most recent strike  
-    GetRecentDroneStrike recent strike  
-    GetRecentDroneStrike what was the last drone strike  
+    GetRecentDroneStrike recent drone strike
+    GetRecentDroneStrike what was the most recent strike
+    GetRecentDroneStrike recent strike
+    GetRecentDroneStrike what was the last drone strike
     GetRecentDroneStrike last drone strike
-    
+
 
 Go ahead and past them in like you see below.
 
@@ -155,35 +156,35 @@ Open up this folder in your favorite code editor (mine is Atom), and you will ne
 
 At the very top of the file, we are going to start out with the basics that we need — imports.
 
-    from flask import Flask  
+    from flask import Flask
     from flask_ask import Ask, request, session, question, statement
-    
+
 
 Next up, let’s get the server setup done with:
 
-    app = Flask(__name__)  
+    app = Flask(__name__)
     ask = Ask(app, "/")
-    
+
 
 And lastly for this setup, we need to bind it to a port:
 
-    if __name__ == '__main__':  
+    if __name__ == '__main__':
         # Bind to PORT if defined, otherwise default to 5000.
         port = int(os.environ.get('PORT', 5000))
         app.run(host='0.0.0.0', port=port)
-    
+
 
 So right now, our `drone_strike.py` should look something like this:
 
-    from flask import Flask  
+    from flask import Flask
     from flask_ask import Ask, request, session, question, statement
-    app = Flask(__name__)  
+    app = Flask(__name__)
     ask = Ask(app, "/")
-    if __name__ == '__main__':  
+    if __name__ == '__main__':
         # Bind to PORT if defined, otherwise default to 5000.
         port = int(5000)
         app.run(host='0.0.0.0', port=port)
-    
+
 
 Woo! We are almost at the point where we can talk to Alexa to test.
 
@@ -192,10 +193,10 @@ To get a quick function going, we are going to add a launch command - the comman
 Right below where we initialized ask with `ask = Ask(app, "/")` add in this code:
 
     @ask.launch
-    def launch():  
+    def launch():
         speech_text = "Hello, welcome to Drone Strike"
         return question(speech_text).reprompt(speech_text).simple_card('Welcome', speech_text)
-    
+
 
 Let’s diagnose what we just put in. First off `@ask.launch` is the intent that runs whenever we launch the app. It then calls the function `launch()`. Inside `launch()` we are defining what we want the app to say and then we return a `question` and a `simple_card`.
 
@@ -272,37 +273,37 @@ Let’s knock out our first intent `GetRecentDroneStrike`
 The beginning of our function should look like this:
 
     @ask.intent('GetRecentDroneStrike')
-    def get_recent_drone_strike():  
+    def get_recent_drone_strike():
         response = requests.get(url).json()
-    
+
 
 The response is the data coming back from the API. Let’s parse that data and get the strikes out of it.
 
-    strikes = response["strike"]  
-    strikes_count = len(strikes)  
+    strikes = response["strike"]
+    strikes_count = len(strikes)
     last_strike = strikes[strikes_count-1]
-    
+
 
 The `last_strike` variable is the last element in the array, aka the most recently add strike. For this intent, we want to output the **date, location, and narrative**
 
 Let’s grab those fields from the data with
 
     // l_s stands for last_strike
-    l_s_narrative = last_strike["narrative"]  
-    l_s_date = dateutil.parser.parse(last_strike["date"])  
+    l_s_narrative = last_strike["narrative"]
+    l_s_date = dateutil.parser.parse(last_strike["date"])
     l_s_location = last_strike["location"] + " in " + last_strike["country"]
-    
+
 
 Next, let’s display the date in a more voice friendly way.
 
     l_s_date_text = l_s_date.strftime("%A") + " " + l_s_date.strftime("%B") + " " + l_s_date.strftime("%d") + ", " + l_s_date.strftime("%Y")
-    
+
 
 Lastly, we need to output all of this using flask-ask helper functions:
 
-    last_strike_output = "The last drone strike was on " + l_s_date_text + " in " + l_s_location + ". " + l_s_narrative  
+    last_strike_output = "The last drone strike was on " + l_s_date_text + " in " + l_s_location + ". " + l_s_narrative
     return statement(last_strike_output).simple_card('GetRecentDroneStrike', last_strike_output)
-    
+
 
 So what is this going to sound like?
 
@@ -310,20 +311,20 @@ The* last drone strike was on Tuesday September 13, 2016 in Al Bayda Province in
 
 Alright, so at this point your file should look like this:
 
-    from flask import Flask  
+    from flask import Flask
     from flask_ask import Ask, request, session, question, statement
-    import requests  
-    import dateutil.parser  
+    import requests
+    import dateutil.parser
     from datetime import date
-    app = Flask(__name__)  
+    app = Flask(__name__)
     ask = Ask(app, "/")
     url = 'http://api.dronestre.am/data'
     @ask.launch
-    def launch():  
+    def launch():
         speech_text = "Hello, welcome to Drone Strike"
         return statement(speech_text).simple_card('Welcome', speech_text)
     @ask.intent('GetRecentDroneStrike')
-    def get_recent_drone_strike():  
+    def get_recent_drone_strike():
         response = requests.get(url).json()
         strikes = response["strike"]
         strikes_count = len(strikes)
@@ -334,11 +335,11 @@ Alright, so at this point your file should look like this:
         l_s_date_text = l_s_date.strftime("%A") + " " + l_s_date.strftime("%B") + " " + l_s_date.strftime("%d") + ", " + l_s_date.strftime("%Y")
         last_strike_output = "The last drone strike was on " + l_s_date_text + " in " + l_s_location + ". " + l_s_narrative
         return statement(last_strike_output).simple_card('GetRecentDroneStrike', last_strike_output)
-    if __name__ == '__main__':  
+    if __name__ == '__main__':
         # Bind to PORT if defined, otherwise default to 5000.
         port = 5000
         app.run(host='0.0.0.0', port=port)
-    
+
 
 And hopefully that’s all we need!
 

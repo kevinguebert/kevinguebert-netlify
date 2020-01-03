@@ -1,9 +1,11 @@
 ---
 title: "Relax Your Decisions a Little"
-path: "/2018/01/17/relax-your-decisions-a-little"
+slug: "relax-your-decisions-a-little"
 date: "2018-01-18T02:41:00.000Z"
 tags: ["Algorithms to Live By","Books"]
-excerpt: "How many decisions do we face in our lifetime that don't seem to have an answer? Every day we face hundreds if not thousands of decisions that guide us in a certain direction. But what about those..."
+draft: false
+template: "post"
+description: "How many decisions do we face in our lifetime that don't seem to have an answer? Every day we face hundreds if not thousands of decisions that guide us in a certain direction. But what about those..."
 ---
 
 How many decisions do we face in our lifetime that don't seem to have an answer? Every day we face hundreds if not thousands of decisions that guide us in a certain direction. But what about those hard questions? Those big life questions we are ask ourselves at some point?

@@ -1,9 +1,11 @@
 ---
 title: "Learn About HTML Parsing with the DOMDocument"
-path: "/2018/07/15/learn-about-html-parsing-with-the-domdocument"
+slug: "learn-about-html-parsing-with-the-domdocument"
 date: "2018-07-15T13:33:12.000Z"
 tags: ["Coding","Tutorials","Technology"]
-excerpt: "> The DOMDocument is a class built in to PHP that helps developers navigate an HTML document tree and provides methods to help interact with the document.
+draft: false
+template: "post"
+description: "> The DOMDocument is a class built in to PHP that helps developers navigate an HTML document tree and provides methods to help interact with the document.
 
 [Outside..."
 ---

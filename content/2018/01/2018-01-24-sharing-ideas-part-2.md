@@ -1,9 +1,11 @@
 ---
 title: "Sharing Ideas Part 2"
-path: "/2018/01/24/sharing-ideas-part-2"
+slug: "sharing-ideas-part-2"
 date: "2018-01-25T02:44:00.000Z"
 tags: ["Ideas","Personal Growth"]
-excerpt: "In the first post on this topic, I posed an idea for using voice-enabled devices to create art. Today I'll be sharing another idea I've pondered (and may have coded a little on).
+draft: false
+template: "post"
+description: "In the first post on this topic, I posed an idea for using voice-enabled devices to create art. Today I'll be sharing another idea I've pondered (and may have coded a little on).
 
 On Reddit, there..."
 ---

@@ -2,13 +2,13 @@
 title: "Facebook + Microsoft = Bot"
 slug: "facebook-microsoft-bot"
 template: "post"
-draft: false
 date: "2016-12-26T22:10:00.000Z"
 category: "Tutorials"
 tags:
   - "Tutorials"
   - "Technology"
-  - "Coding"
+draft: false
+template: "post"
 description: "Over the past couple weeks I have had the great opportunity to developer off of Facebook's Messenger Platform (Link) and leverage Microsoft's LUIS Engine (link). What are those and what can you do..."
 ---
 

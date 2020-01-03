@@ -1,9 +1,11 @@
 ---
 title: "Fundamentals of Design Thinking"
-path: "/2018/03/29/fundamentals-of-design-thinking"
+slug: "fundamentals-of-design-thinking"
 date: "2018-03-29T22:00:00.000Z"
 tags: ["Design It","Coding","Books"]
-excerpt: "### Human Rule
+draft: false
+template: "post"
+description: "### Human Rule
 
 We design for people & with people. When designing, we must think about the stakeholders, the end users, the programmers, the testers, and the managers. Architects do not operate in a..."
 ---

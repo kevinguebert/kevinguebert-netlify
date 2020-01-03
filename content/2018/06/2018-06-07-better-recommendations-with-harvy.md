@@ -1,9 +1,11 @@
 ---
 title: "Better Recommendations with Harvy"
-path: "/2018/06/07/better-recommendations-with-harvy"
+slug: "better-recommendations-with-harvy"
 date: "2018-06-07T11:39:04.000Z"
 tags: ["Technology","Startups","Ideas","Coding","Harvy Dev"]
-excerpt: "Last night, with some iced coffe in hand, I was able to deploy the latest update to [Harvy](www.harvy.app). [On Tuesday](2018/06/05/offloading-work-to-spotify/) I talked about taking some of the..."
+draft: false
+template: "post"
+description: "Last night, with some iced coffe in hand, I was able to deploy the latest update to [Harvy](www.harvy.app). [On Tuesday](2018/06/05/offloading-work-to-spotify/) I talked about taking some of the..."
 ---
 
 Last night, with some iced coffe in hand, I was able to deploy the latest update to [Harvy](www.harvy.app). [On Tuesday](2018/06/05/offloading-work-to-spotify/) I talked about taking some of the strain off of Harvy and using Spotify's algorithms instead of creating my own. This latest release does just that!

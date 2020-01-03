@@ -1,9 +1,11 @@
 ---
 title: "Rich Roll + Alex Honnold [Video]"
-path: "/2018/03/09/rich-roll-alex-honnold-video"
+slug: "rich-roll-alex-honnold-video"
 date: "2018-03-09T21:44:00.000Z"
 tags: ["Video","Recommendations"]
-excerpt: "Incase you didn't know, [Rich Roll](https://richroll.com) holds the top spot in my list of favorite podcasters. This past week he sat down with someone who I've been hearing much more about since..."
+draft: false
+template: "post"
+description: "Incase you didn't know, [Rich Roll](https://richroll.com) holds the top spot in my list of favorite podcasters. This past week he sat down with someone who I've been hearing much more about since..."
 ---
 
 Incase you didn't know, [Rich Roll](https://richroll.com) holds the top spot in my list of favorite podcasters. This past week he sat down with someone who I've been hearing much more about since starting new job out in Boulder, Colorado.

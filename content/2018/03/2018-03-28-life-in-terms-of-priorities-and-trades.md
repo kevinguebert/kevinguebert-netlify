@@ -1,9 +1,11 @@
 ---
 title: "Life in Terms of Priorities and Trades"
-path: "/2018/03/28/life-in-terms-of-priorities-and-trades"
+slug: "life-in-terms-of-priorities-and-trades"
 date: "2018-03-28T21:59:00.000Z"
 tags: ["Reflection","Personal Growth"]
-excerpt: "Recently for me, I've seen a post shared around on social media sites that prescribes a different way of thinking about your tasks."
+draft: false
+template: "post"
+description: "Recently for me, I've seen a post shared around on social media sites that prescribes a different way of thinking about your tasks."
 ---
 
 Recently for me, I've seen a post shared around on social media sites that prescribes a different way of thinking about your tasks.

@@ -1,9 +1,11 @@
 ---
 title: "The Dope Addiction"
-path: "/2018/01/20/the-dope-addiction"
+slug: "the-dope-addiction"
 date: "2018-01-21T02:43:00.000Z"
 tags: ["Personal Growth"]
-excerpt: "This isn't any actual drug I'm talking about being addicted to today, this is a feeling.
+draft: false
+template: "post"
+description: "This isn't any actual drug I'm talking about being addicted to today, this is a feeling.
 
 > I'm going to run a marathon this year.
 

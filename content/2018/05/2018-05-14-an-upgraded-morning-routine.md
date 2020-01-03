@@ -1,9 +1,11 @@
 ---
 title: "An Upgraded Morning Routine"
-path: "/2018/05/14/an-upgraded-morning-routine"
+slug: "an-upgraded-morning-routine"
 date: "2018-05-15T00:21:00.000Z"
 tags: ["Own the Day, Own Your Life","Books"]
-excerpt: "[Way back in January](/blog/2018/01/12/morning-routine) I talked about my morning routine and how it works for me. For the past couple months, I've stuck with it probably 95% of the time with the 5%..."
+draft: false
+template: "post"
+description: "[Way back in January](/blog/2018/01/12/morning-routine) I talked about my morning routine and how it works for me. For the past couple months, I've stuck with it probably 95% of the time with the 5%..."
 ---
 
 [Way back in January](/blog/2018/01/12/morning-routine) I talked about my morning routine and how it works for me. For the past couple months, I've stuck with it probably 95% of the time with the 5% missing coming from when visitors are here or when I'm traveling. Recently (like this past week), I've shaken things up a little more though. I **know** that I am most productive in the morning, so I asked why not give myself more time then? I decided to shift my sleep clock around and ended up waking up 30 minutes earlier than previously. The effects have been dramatic to say the least. That simple 30 minutes seems like I have extra hours every morning. If you want to get more done before work, I would recommend moving the alarm 15 or 30 minutes earlier, you may get all you need done.

@@ -1,9 +1,11 @@
 ---
 title: "Derek Sivers' 'Hell Yeah' Test"
-path: "/2018/03/24/derek-sivers-hell-yeah-test"
+slug: "derek-sivers-hell-yeah-test"
 date: "2018-03-24T21:55:00.000Z"
 tags: ["$100 Startup","Marketing","Startups","Books"]
-excerpt: "If you’re not saying 'HELL YEAH!' about something, say 'no'.'"
+draft: false
+template: "post"
+description: "If you’re not saying 'HELL YEAH!' about something, say 'no'.'"
 
 ---
 

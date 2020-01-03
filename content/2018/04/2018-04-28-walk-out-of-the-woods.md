@@ -1,9 +1,11 @@
 ---
 title: "A Walk Out of the Woods"
-path: "/2018/04/28/walk-out-of-the-woods"
+slug: "walk-out-of-the-woods"
 date: "2018-04-28T21:49:00.000Z"
 tags: ["Books","Walk in the Woods"]
-excerpt: "> 'A terribly misguided and terribly funny tale of adventure...choke on your coffee funny.' - *Washington Post*
+draft: false
+template: "post"
+description: "> 'A terribly misguided and terribly funny tale of adventure...choke on your coffee funny.' - *Washington Post*
 
 Okay this may be a bit against the norm here, but, reading that quote above talking..."
 ---

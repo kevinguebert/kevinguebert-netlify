@@ -1,9 +1,11 @@
 ---
 title: "To Be or To Do?"
-path: "/2018/01/30/to-be-or-to-do"
+slug: "to-be-or-to-do"
 date: "2018-01-31T02:47:00.000Z"
 tags: ["Books","Personal Growth","Stoicism","Ego is the Enemy"]
-excerpt: "> Which do you want: to be somebody or to do something?
+draft: false
+template: "post"
+description: "> Which do you want: to be somebody or to do something?
 
 This morning's chapter of **Ego is the Enemy** posed a solid question - to be or to do? This quote comes from John Boyd, a colonel in the Air..."
 ---

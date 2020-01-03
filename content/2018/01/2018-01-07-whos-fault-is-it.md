@@ -1,9 +1,11 @@
 ---
 title: "Who's Fault Is It?"
-path: "/2018/01/07/whos-fault-is-it"
+slug: "whos-fault-is-it"
 date: "2018-01-08T02:34:00.000Z"
 tags: ["Personal Growth","Stoicism"]
-excerpt: "I love my routine. I love having a plan, knowing what the future holds, and knowing what the expectations are for me. I may be addicted to it. The feeling of moving forward, of progress, towards..."
+draft: false
+template: "post"
+description: "I love my routine. I love having a plan, knowing what the future holds, and knowing what the expectations are for me. I may be addicted to it. The feeling of moving forward, of progress, towards..."
 ---
 
 I love my routine. I love having a plan, knowing what the future holds, and knowing what the expectations are for me. I may be addicted to it. The feeling of moving forward, of progress, towards making something (usually myself) better.
