@@ -8,7 +8,6 @@ tags:
   - "Tutorials"
   - "Technology"
 draft: false
-template: "post"
 description: "Over the past couple weeks I have had the great opportunity to developer off of Facebook's Messenger Platform (Link) and leverage Microsoft's LUIS Engine (link). What are those and what can you do..."
 ---
 
