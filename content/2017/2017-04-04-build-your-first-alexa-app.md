@@ -1,9 +1,17 @@
 ---
-title: "Build Your First Alexa App"
-path: "/2017/04/04/build-your-first-alexa-app"
-date: "2017-04-04T21:36:00.000Z"
-tags: ["Tutorials","Technology","Coding"]
-excerpt: "In today's tutorial we are going to set up a very basic Amazon Alexa Skill that uses Python, specifically a package called Flask-Ask. Today's sample data may seem a bit controversial and..."
+title: Build Your First Alexa App
+slug: build-your-first-alexa-app
+draft: false
+date: '2017-04-04T21:36:00.000Z'
+description: >-
+  In today's tutorial we are going to set up a very basic Amazon Alexa Skill
+  that uses Python, specifically a package called Flask-Ask. Today's sample data
+  may seem a bit controversial and...
+category: Tutorials
+tags:
+  - Tutorials
+  - Technology
+  - Coding
 ---
 
 In today's tutorial we are going to set up a very basic Amazon Alexa Skill that uses Python, specifically a package called Flask-Ask. Today's sample data may seem a bit controversial and political - but it is an interesting set of data and one that could be extended much further than what we are doing today.
