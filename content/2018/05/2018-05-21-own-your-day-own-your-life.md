@@ -1,13 +1,11 @@
 ---
 title: "Own Your Day, Own Your Life"
-slug: "/21/own-your-day-own-your-life"
+slug: "own-your-day-own-your-life"
 date: "2018-05-22T00:23:00.000Z"
 tags: ["Own the Day, Own Your Life","Books"]
 draft: false
 template: "post"
-description: "Note - I have not finished *Own the Day, Own Your Life* yet, these are preliminary thoughts.
-
-I have 125 pages left of Aubrey Marcus' book *Own the Day, Own Your Life* and I've come to a thought that..."
+description: "Note - I have not finished *Own the Day, Own Your Life* yet, these are preliminary thoughts. I have 125 pages left of Aubrey Marcus' book *Own the Day, Own Your Life* and I've come to a thought that..."
 ---
 
 Note - I have not finished *Own the Day, Own Your Life* yet, these are preliminary thoughts.

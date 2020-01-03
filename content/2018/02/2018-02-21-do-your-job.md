@@ -1,6 +1,6 @@
 ---
 title: "Do. Your. Job."
-slug: "/21/do-your-job"
+slug: "do-your-job"
 date: "2018-02-22T02:57:00.000Z"
 tags: ["Books","Personal Growth","Stoicism","The Obstacle is the Way"]
 draft: false

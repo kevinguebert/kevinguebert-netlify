@@ -1,6 +1,6 @@
 ---
 title: "Things I Wish I Knew (Coding Edition)"
-slug: "/21/things-i-wish-i-knew"
+slug: "things-i-wish-i-knew"
 date: "2018-03-21T21:47:00.000Z"
 tags: ["Coding","Personal Growth"]
 draft: false
