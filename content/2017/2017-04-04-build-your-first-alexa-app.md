@@ -2,7 +2,7 @@
 title: Build Your First Alexa App
 slug: build-your-first-alexa-app
 draft: false
-date: '2017-04-04T21:36:00.000Z'
+date: 2017-04-04T21:36:00.000Z
 description: >-
   In today's tutorial we are going to set up a very basic Amazon Alexa Skill
   that uses Python, specifically a package called Flask-Ask. Today's sample data
