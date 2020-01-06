@@ -1,11 +1,17 @@
 ---
-title: "Sharing Ideas Part 3"
-slug: "sharing-ideas-part-3"
-date: "2018-03-20T21:46:00.000Z"
-tags: ["Ideas","Personal Growth","Startups"]
+template: post
+title: Sharing Ideas Part 3
+slug: sharing-ideas-part-3
 draft: false
-template: "post"
-description: "Be sure to check out my previous posts to see other ideas that I've had over the past couple of years of [a Twitter bot](/blog/2018/01/25/share-ideas-part-2.html) and [an Alexa..."
+date: '2018-03-20T21:46:00.000Z'
+description: >-
+  Be sure to check out my previous posts to see other ideas that I've had over
+  the past couple of years of a Twitter bot and an Alexa...
+category: Personal Growth
+tags:
+  - Ideas
+  - Personal Growth
+  - Startups
 ---
 
 Be sure to check out my previous posts to see other ideas that I've had over the past couple of years of [a Twitter bot](/blog/2018/01/25/share-ideas-part-2.html) and [an Alexa skill](/blog/2018/01/16/sharing-ideas.html).
