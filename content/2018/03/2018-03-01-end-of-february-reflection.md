@@ -1,15 +1,16 @@
 ---
-title: "End of February Reflection"
-slug: "end-of-february-reflection"
-date: "2018-03-01T21:36:00.000Z"
-tags: ["Reflection","Personal Growth"]
+template: post
+title: End of February Reflection
+slug: end-of-february-reflection
 draft: false
-template: "post"
-description: "February has come to a close! A short month, but still time to reflect on progress.
-
-#### Goal: By Memorial Day 2018, I want to have 100 new posts on a website about something I have learned.
-
-If you..."
+date: '2018-03-01T21:36:00.000Z'
+description: >
+  February has come to a close! A short month, but still time to reflect on
+  progress.
+category: Books
+tags:
+  - Reflection
+  - Personal Growth
 ---
 
 February has come to a close! A short month, but still time to reflect on progress.
