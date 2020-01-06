@@ -1,13 +1,16 @@
 ---
-title: "Is It Possible?"
-slug: "is-it-possible"
-date: "2018-01-23T02:44:00.000Z"
-tags: ["Living with a Seal","Books"]
+template: post
+title: Is It Possible?
+slug: is-it-possible
 draft: false
-template: "post"
-description: "Thoughts from finishing: **Living with a Seal: 31 Days Training with the Toughest Man on the Plane** by Jesse Itzler.
-
-Before picking up *Living with a Seal*, I expected it to be a 'note-taking' book..."
+date: '2018-01-23T02:44:00.000Z'
+description: >
+  Thoughts from finishing: Living with a Seal: 31 Days Training with the
+  Toughest Man on the Plane by Jesse Itzler.
+category: Books
+tags:
+  - Living with a Seal
+  - Books
 ---
 
 Thoughts from finishing: **Living with a Seal: 31 Days Training with the Toughest Man on the Plane** by Jesse Itzler.
