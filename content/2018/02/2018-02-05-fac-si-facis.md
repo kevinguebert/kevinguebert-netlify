@@ -1,11 +1,18 @@
 ---
-title: "Fac, si facis"
-slug: "fac-si-facis"
-date: "2018-02-06T02:50:00.000Z"
-tags: ["Books","Personal Growth","Stoicism","Ego is the Enemy"]
+template: post
+title: 'Fac, si facis'
+slug: fac-si-facis
 draft: false
-template: "post"
-description: "What is the difference between working for a company and owning a company with employees? What is the difference between a snowboarding going to..."
+date: '2018-02-06T02:50:00.000Z'
+description: >-
+  What is the difference between working for a company and owning a company with
+  employees? What is the difference between a snowboarding going to...
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Stoicism
+  - Ego is the Enemy
 ---
 
 > ### Fac, si facis: "Do it, if you're going to do it"
