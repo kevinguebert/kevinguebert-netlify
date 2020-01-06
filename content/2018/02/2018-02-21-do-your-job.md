@@ -1,13 +1,19 @@
 ---
-title: "Do. Your. Job."
-slug: "do-your-job"
-date: "2018-02-22T02:57:00.000Z"
-tags: ["Books","Personal Growth","Stoicism","The Obstacle is the Way"]
+template: post
+title: Do. Your. Job.
+slug: do-your-job
 draft: false
-template: "post"
-description: "> 'Everything we do matters...Everything is a chance to do and be your best. Only self-absorbed assholes think they are too good for whatever their current station requires.' (94)
-
-What a powerful..."
+date: '2018-02-22T02:57:00.000Z'
+description: >
+  " Everything we do matters...Everything is a chance to do and be your best.
+  Only self-absorbed assholes think they are too good for whatever their current
+  station requires."
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Stoicism
+  - The Obstacle is the Way
 ---
 
 > "Everything we do matters...Everything is a chance to do and be your best. Only self-absorbed assholes think they are too good for whatever their current station requires." (94)
