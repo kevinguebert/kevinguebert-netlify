@@ -1,11 +1,18 @@
 ---
-title: "Always Be Moving"
-slug: "always-be-moving"
-date: "2018-02-21T02:56:00.000Z"
-tags: ["Books","Personal Growth","Stoicism"]
+template: post
+title: Always Be Moving
+slug: always-be-moving
 draft: false
-template: "post"
-description: "> 'So when you're frustrated in pursuit of your own goals, don't sit there and complain that you don't have what you want. If you haven't even tried yet, then of course you will still be in the exact..."
+date: '2018-02-21T02:56:00.000Z'
+description: >-
+  "So when you're frustrated in pursuit of your own goals, don't sit there and
+  complain that you don't have what you want. If you haven't even tried yet,
+  then of course you will still be in the exact..."
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Stoicism
 ---
 
 > "So when you're frustrated in pursuit of your own goals, don't sit there and complain that you don't have what you want. If you haven't even tried yet, then of course you will still be in the exact same spot. You haven't pursued anything." (75)
