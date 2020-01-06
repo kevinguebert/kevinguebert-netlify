@@ -1,13 +1,16 @@
 ---
-title: "Elon Musk in the Wizard of Oz"
-path: "elon-musk-in-the-wizard-of-oz"
+template: post
+title: Elon Musk in the Wizard of Oz
+slug: elon-musk-in-the-wizard-of-oz
 draft: false
-template: "post"
-date: "2018-01-01T02:30:00.000Z"
-tags: ["Books","Elon Musk"]
-description: "Book: [**Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future**](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) by Ashlee Vance
-
-While in college studying for my..."
+date: '2018-01-01T02:30:00.000Z'
+description: >-
+  Book: Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee
+  Vance
+category: Books
+tags:
+  - Books
+  - Elon Musk
 ---
 
 Book: [**Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future**](https://www.amazon.com/Elon-Musk-SpaceX-Fantastic-Future/dp/0062301233) by Ashlee Vance
