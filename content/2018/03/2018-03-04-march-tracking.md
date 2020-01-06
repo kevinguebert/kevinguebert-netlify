@@ -1,11 +1,16 @@
 ---
-title: "Accountability Tracking"
-slug: "march-tracking"
-date: "2018-03-04T21:40:00.000Z"
-tags: ["Personal Growth"]
+template: post
+title: Accountability Tracking
+slug: march-tracking
 draft: false
-template: "post"
-description: "Curious about how to automate some of your accountability? This month for my tracking, I implemented a version 1 plan to automate my tracking by using two services: [IFTTT](ifttt.com) and..."
+date: '2018-03-04T21:40:00.000Z'
+description: >-
+  Curious about how to automate some of your accountability? This month for my
+  tracking, I implemented a version 1 plan to automate my tracking by using two
+  services:
+category: Personal Growth
+tags:
+  - Personal Growth
 ---
 
 Curious about how to automate some of your accountability? This month for my tracking, I implemented a version 1 plan to automate my tracking by using two services: [IFTTT](ifttt.com) and [Zapier](zapier.com/apps). IFTTT is "If this then that" and Zapier is a very similar service more focused on the business aspect of tasks. What you can do is set up certain "triggers" which then create an output. The way I use it is by using the triggers to add events to a shared Google Calendar.
