@@ -1,11 +1,16 @@
 ---
 title: "Look-Then-Leap Rule - Explained"
-slug: "look-then-leap"
-date: "2018-01-09T02:35:00.000Z"
-tags: ["Coding","Books","Algorithms to Live By"]
+slug: look-then-leap
+date: 2018-01-09T02:35:00.000Z
+category: Books
+tags:
+  - Coding
+  - Books
+  - Algorithms to Live By
 draft: false
 template: "post"
-description: "> **Look-Then-Leap Rule:** 'You set a predetermined amount of time for 'looking' - that is, exploring your options, gathering data - in which you categorically don't choose anyone, no matter how..."
+description: >-
+  Look-Then-Leap Rule: "You set a predetermined amount of time for 'looking' - that is, exploring your options, gathering data - in which you categorically don't choose anyone, no matter how..."
 ---
 
 > **Look-Then-Leap Rule:** "You set a predetermined amount of time for 'looking' - that is, exploring your options, gathering data - in which you categorically don't choose anyone, no matter how impressive. After that point, you enter the 'leap' phase, prepared to instantly commit to anyone who outshines the best applicant you saw in the look phase." (13)

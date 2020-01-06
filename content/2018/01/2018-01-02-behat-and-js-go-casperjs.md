@@ -1,11 +1,15 @@
 ---
 title: "Behat and JS? Go CasperJS"
-slug: "behat-and-js-go-casperjs"
-date: "2018-01-03T02:31:00.000Z"
-tags: ["Drupal","Coding"]
+slug: behat-and-js-go-casperjs
 draft: false
 template: "post"
-description: "Today while writing tests (shocking, I know), I came across an interesting and unknown (at the time) scenario. For the site, I wanted to test and make sure a certain element was showing up on the..."
+date: 2018-01-03T02:31:00.000Z
+description: >-
+  Today while writing tests (shocking, I know), I came across an interesting and unknown (at the time) scenario. For the site, I wanted to test and make sure a certain element was showing up on the..."
+category: Coding
+tags:
+  - Drupal
+  - Coding
 ---
 
 Today while writing tests (shocking, I know), I came across an interesting and unknown (at the time) scenario. For the site, I wanted to test and make sure a certain element was showing up on the page. At the time, I was writing Behat tests to do some functionality and the tests are very simple to write, so I decided to try and create a simple test for my element. *Usually* this is pretty straightforward:

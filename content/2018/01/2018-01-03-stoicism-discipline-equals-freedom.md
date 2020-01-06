@@ -1,11 +1,16 @@
 ---
 title: "Stoicism & Discipline Equals Freedom"
-slug: "stoicism-discipline-equals-freedom"
-date: "2018-01-04T02:32:00.000Z"
-tags: ["Discipline Equals Freedom","Jocko Willink","Stoicism","Books"]
+slug: stoicism-discipline-equals-freedom
 draft: false
 template: "post"
-description: "I am one day in and 39 pages deep into **Discipline Equals Freedom Field Manual**, and I would already highly recommend it to anyone. This morning I came across a couple passages that I wanted to..."
+date: 2018-01-04T02:32:00.000Z
+description: >-
+  I am one day in and 39 pages deep into Discipline Equals Freedom Field Manual, and I would already highly recommend it to anyone. This morning I came across a couple passages that I wanted to...
+tags:
+  - Discipline Equals Freedom
+  - Jocko Willink
+  - Stoicism
+  - Books
 ---
 
 I am one day in and 39 pages deep into **Discipline Equals Freedom Field Manual**, and I would already highly recommend it to anyone. This morning I came across a couple passages that I wanted to share that I believe relate very much to Stoicism.
