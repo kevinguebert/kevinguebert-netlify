@@ -1,13 +1,17 @@
 ---
-title: "Steps for Changing our Perception"
-slug: "steps-for-changing-our-perception"
-date: "2018-02-19T02:54:00.000Z"
-tags: ["Books","Personal Growth","Stoicism","The Obstacle is the Way"]
+template: post
+title: Steps for Changing our Perception
+slug: steps-for-changing-our-perception
 draft: false
-template: "post"
-description: "> 'Nothing *makes* us feel this way, we *choose* to give in to such feelings'
-
-How many of our obstacles, our problems, and our challenges today are based solely on our *perception*? In the new book..."
+date: '2018-02-19T02:54:00.000Z'
+description: |
+  "Nothing makes us feel this way, we choose to give in to such feelings"
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Stoicism
+  - The Obstacle is the Way
 ---
 
 > "Nothing *makes* us feel this way, we *choose* to give in to such feelings"
