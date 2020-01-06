@@ -1,15 +1,14 @@
 ---
-title: "The Myth of Unlimited Vacation Days"
-slug: "the-myth-of-unlimited-vacation-days"
-date: "2018-01-20T02:42:00.000Z"
-tags: ["Algorithms to Live By","Books"]
+template: post
+title: The Myth of Unlimited Vacation Days
+slug: the-myth-of-unlimited-vacation-days
 draft: false
-template: "post"
-description: "> Job Perks:
-
-- Unlimited Vacation Days
-
-Is that not something all of us want to see when applying for jobs? *Unlimited Vacation Days* - it sure does sound perfect. But what if I told you that..."
+date: '2018-01-20T02:42:00.000Z'
+description: Unlimited Vacation Days - it sure does sound perfect.
+category: Books
+tags:
+  - Algorithms to Live By
+  - Books
 ---
 
 > Job Perks:
