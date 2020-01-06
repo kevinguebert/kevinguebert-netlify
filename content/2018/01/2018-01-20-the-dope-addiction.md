@@ -1,17 +1,15 @@
 ---
-title: "The Dope Addiction"
-slug: "the-dope-addiction"
-date: "2018-01-21T02:43:00.000Z"
-tags: ["Personal Growth"]
+template: post
+title: The Dope Addiction
+slug: the-dope-addiction
 draft: false
-template: "post"
-description: "This isn't any actual drug I'm talking about being addicted to today, this is a feeling.
-
-> I'm going to run a marathon this year.
-
-> I'm launching a startup.
-
-> I'm planning on traveling to Europe..."
+date: '2018-01-21T02:43:00.000Z'
+description: >-
+  This isn't any actual drug I'm talking about being addicted to today, this is
+  a feeling.
+category: Personal Growth
+tags:
+  - Personal Growth
 ---
 
 This isn't any actual drug I'm talking about being addicted to today, this is a feeling.
