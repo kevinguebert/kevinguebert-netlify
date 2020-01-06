@@ -1,13 +1,20 @@
 ---
-title: "Disease of Me"
-slug: "disease-of-me"
-date: "2018-02-11T02:51:00.000Z"
-tags: ["Books","Personal Growth","Stoicism","Ego is the Enemy"]
+template: post
+title: Disease of Me
+slug: disease-of-me
 draft: false
-template: "post"
-description: "> 'Play for the name on the front of the jersey and they'll remember the name on the back' - Tony Adams
+date: '2018-02-11T02:51:00.000Z'
+description: >-
+  "Play for the name on the front of the jersey and they'll remember the name on
+  the back" - Tony Adams
 
-Ponder on that quote a little - it's pretty profound when you think about it. Many of us are..."
+  Ponder on that quote a little - it's pretty profound when you think about it.
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Stoicism
+  - Ego is the Enemy
 ---
 
 > "Play for the name on the front of the jersey and they'll remember the name on the back" - Tony Adams
