@@ -1,11 +1,18 @@
 ---
-title: "Sharing Ideas"
-slug: "sharing-ideas"
-date: "2018-01-16T02:39:00.000Z"
-tags: []
+template: post
+title: Sharing Ideas
+slug: sharing-ideas
 draft: false
-template: "post"
-description: "One thing I love being a part of is getting an idea and seeing how far you can take it. Over the past couple years, I've been fortunate enough to participate in a couple of these ideas that broke the..."
+date: '2018-01-16T02:39:00.000Z'
+description: >-
+  One thing I love being a part of is getting an idea and seeing how far you can
+  take it. Over the past couple years, I've been fortunate enough to participate
+  in a couple of these ideas that broke the...
+category: Personal Growth
+tags:
+  - Technology
+  - Ideas
+  - Personal Growth
 ---
 
 One thing I love being a part of is getting an idea and seeing how far you can take it. Over the past couple years, I've been fortunate enough to participate in a couple of these ideas that broke the barrier between idea and product. My favorite one was Activity Buzz - a service that helped parents find the best activities for their kids. Unfortunately, it didn't quite pan out. But, in the semi-failure, many lessons were learned so I'd count it as a success.
