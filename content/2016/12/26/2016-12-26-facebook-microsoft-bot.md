@@ -1,14 +1,17 @@
 ---
-title: "Facebook + Microsoft = Bot"
-slug: "facebook-microsoft-bot"
-template: "post"
-date: "2016-12-26T22:10:00.000Z"
-category: "Tutorials"
-tags:
-  - "Tutorials"
-  - "Technology"
+template: post
+title: Facebook + Microsoft = Bot
+slug: facebook-microsoft-bot
 draft: false
-description: "Over the past couple weeks I have had the great opportunity to developer off of Facebook's Messenger Platform (Link) and leverage Microsoft's LUIS Engine (link). What are those and what can you do..."
+date: '2016-12-26T22:10:00.000Z'
+description: >-
+  Over the past couple of weeks I have had the great opportunity to developer
+  off of Facebook's Messenger Platform and leverage Microsoft's LUIS Engine.
+  What are those and what can you do...
+category: Tutorials
+tags:
+  - Tutorials
+  - Technology
 ---
 
 Over the past couple weeks I have had the great opportunity to developer off of Facebook's Messenger Platform (Link) and leverage Microsoft's LUIS Engine (link). What are those and what can you do with them? Well those are two tools which separately may not be able to accomplish much but combined can accomplish a vast amount. So let's get started:
