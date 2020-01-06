@@ -1,13 +1,17 @@
 ---
-title: "Sharing Ideas Part 2"
-slug: "sharing-ideas-part-2"
-date: "2018-01-25T02:44:00.000Z"
-tags: ["Ideas","Personal Growth"]
+template: post
+title: Sharing Ideas Part 2
+slug: sharing-ideas-part-2
 draft: false
-template: "post"
-description: "In the first post on this topic, I posed an idea for using voice-enabled devices to create art. Today I'll be sharing another idea I've pondered (and may have coded a little on).
-
-On Reddit, there..."
+date: '2018-01-25T02:44:00.000Z'
+description: >-
+  In the first post on this topic, I posed an idea for using voice-enabled
+  devices to create art. Today I'll be sharing another idea I've pondered (and
+  may have coded a little on).
+category: Personal Growth
+tags:
+  - Ideas
+  - Personal Growth
 ---
 
 In the first post on this topic, I posed an idea for using voice-enabled devices to create art. Today I'll be sharing another idea I've pondered (and may have coded a little on).
