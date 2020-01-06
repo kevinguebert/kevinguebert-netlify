@@ -1,11 +1,17 @@
 ---
-title: "End of January Reflection"
-slug: "z-month-1-recap"
-date: "2018-01-31T02:48:00.000Z"
-tags: ["Reflection","Personal Growth"]
+template: post
+title: End of January Reflection
+slug: z-month-1-recap
 draft: false
-template: "post"
-description: "The first month of 2018 has come to a close. How did you do on your resolutions? How are they coming along? I wanted to reflect a little bit on my resolutions and provide an update on how I'm doing as..."
+date: '2018-01-31T02:48:00.000Z'
+description: >-
+  The first month of 2018 has come to a close. How did you do on your
+  resolutions? How are they coming along? I wanted to reflect a little bit on my
+  resolutions and provide an update on how I'm doing as...
+category: Personal Growth
+tags:
+  - Reflection
+  - Personal Growth
 ---
 
 The first month of 2018 has come to a close. How did you do on your resolutions? How are they coming along? I wanted to reflect a little bit on my resolutions and provide an update on how I'm doing as a sort of accountability to myself.
