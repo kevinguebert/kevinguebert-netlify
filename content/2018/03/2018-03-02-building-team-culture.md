@@ -1,13 +1,18 @@
 ---
-title: "Building Team Culture"
-slug: "building-team-culture"
-date: "2018-03-02T21:38:00.000Z"
-tags: ["Books","Personal Growth","Smarter Faster Better"]
+template: post
+title: Building Team Culture
+slug: building-team-culture
 draft: false
-template: "post"
-description: "> 'But if you're an entrepreneur and you're betting on just one company, then the data says you're much better off with a commitment-focused culture' - James Barron (150)
-
-When talking about jobs and..."
+date: '2018-03-02T21:38:00.000Z'
+description: >
+  "But if you're an entrepreneur and you're betting on just one company, then
+  the data says you're much better off with a commitment-focused culture" -
+  James Barron (150)
+category: Books
+tags:
+  - Books
+  - Personal Growth
+  - Smarter Faster Better
 ---
 
 > "But if you're an entrepreneur and you're betting on just one company, then the data says you're much better off with a commitment-focused culture" - James Barron (150)
