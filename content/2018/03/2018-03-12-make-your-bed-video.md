@@ -8,7 +8,7 @@ description: >-
   This past weekend I had the opportunity to read Make Your Bed by William H.
   McRaven. Another post will talk about that, but I wanted to share the
   commencement speech which triggered the book. 
-category: Books
+category: Videos
 tags:
   - Video
   - Recommendations
