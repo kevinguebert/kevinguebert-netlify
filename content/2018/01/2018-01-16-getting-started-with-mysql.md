@@ -1,15 +1,17 @@
 ---
-title: "Getting started with MySQL"
-slug: "getting-started-with-mysql"
-date: "2018-01-17T02:40:00.000Z"
-tags: ["Coding","Tutorials","MySQL"]
+template: post
+title: Getting started with MySQL
+slug: getting-started-with-mysql
 draft: false
-template: "post"
-description: "Want to learn how to use MySQL? This post will share how to get started with the basics!
-
-## Before You Start
-
-- I am using a Mac, so all my commands and applications are for a Mac. If you would like..."
+date: '2018-01-17T02:40:00.000Z'
+description: >-
+  Want to learn how to use MySQL? This post will share how to get started with
+  the basics!
+category: Tutorials
+tags:
+  - Coding
+  - Tutorials
+  - MySQL
 ---
 
 Want to learn how to use MySQL? This post will share how to get started with the basics!
