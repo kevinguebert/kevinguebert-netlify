@@ -1,11 +1,17 @@
 ---
-title: "Running Motivation [Video]"
-slug: "running-motivation-video"
-date: "2018-02-14T02:52:00.000Z"
-tags: ["Personal Growth","Running"]
+template: post
+title: 'Running Motivation [Video]'
+slug: running-motivation-video
 draft: false
-template: "post"
-description: "I can't tell you how many times, when I was training for a race, I didn't want to do the training plan. Long, long runs on the weekends that seemed to take up the whole day. Day in and day out of..."
+date: '2018-02-14T02:52:00.000Z'
+description: >-
+  I can't tell you how many times, when I was training for a race, I didn't want
+  to do the training plan. Long, long runs on the weekends that seemed to take
+  up the whole day. Day in and day out of...
+category: Video
+tags:
+  - Personal Growth
+  - Running
 ---
 
 I can't tell you how many times, when I was training for a race, I didn't want to do the training plan. Long, long runs on the weekends that seemed to take up the whole day. Day in and day out of lacing the shoes. But, in order to complete the race at the end, you have to put the miles in before.
