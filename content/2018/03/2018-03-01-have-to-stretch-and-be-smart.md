@@ -1,11 +1,18 @@
 ---
-title: "Have to Stretch and Be SMART"
-slug: "have-to-stretch-and-be-smart"
-date: "2018-03-01T21:38:00.000Z"
-tags: ["Smarter Faster Better","Books","Personal Growth"]
+template: post
+title: Have to Stretch and Be SMART
+slug: have-to-stretch-and-be-smart
 draft: false
-template: "post"
-description: "> 'To-do lists are great if you use them correctly, but when people say things like 'I sometimes write down easy items I can cross off right away, because it makes me feel good,' that's exactly the..."
+date: '2018-03-01T21:38:00.000Z'
+description: >-
+  "To-do lists are great if you use them correctly, but when people say things
+  like 'I sometimes write down easy items I can cross off right away, because it
+  makes me feel good,"...
+category: Books
+tags:
+  - Smarter Faster Better
+  - Books
+  - Personal Growth
 ---
 
 > "To-do lists are great if you use them correctly, but when people say things like 'I sometimes write down easy items I can cross off right away, because it makes me feel good,' that's exactly the *wrong* way to create a to-do list" - Timothy Pychcyl (129)
