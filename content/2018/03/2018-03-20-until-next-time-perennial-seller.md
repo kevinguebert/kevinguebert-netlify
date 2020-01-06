@@ -1,11 +1,16 @@
 ---
-title: "Until Next Time Perennial Seller"
-slug: "until-next-time-perennial-seller"
-date: "2018-03-20T21:46:00.000Z"
-tags: ["Books"]
+template: post
+title: Until Next Time Perennial Seller
+slug: until-next-time-perennial-seller
 draft: false
-template: "post"
-description: "Unfortunately, after 2 renews and 6 weeks, I was unable to finish Ryan Holiday's *Perennial Seller*. One could make excuses on a multitude of reasons, but the excuse coming from me today is that books..."
+date: '2018-03-20T21:46:00.000Z'
+description: >-
+  Unfortunately, after 2 renews and 6 weeks, I was unable to finish Ryan
+  Holiday's Perennial Seller* One could make excuses on a multitude of reasons,
+  but the excuse coming from me today is that books...
+category: Books
+tags:
+  - Books
 ---
 
 Unfortunately, after 2 renews and 6 weeks, I was unable to finish Ryan Holiday's *Perennial Seller*. One could make excuses on a multitude of reasons, but the excuse coming from me today is that books arrived earlier than expected at the library and my queue was long. Have no fear though! I have already requested it at the library.
