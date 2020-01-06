@@ -1,13 +1,18 @@
 ---
-title: "Mental Health Day"
-slug: "mental-health-day"
-date: "2018-03-06T21:41:00.000Z"
-tags: ["Health"]
+template: post
+title: Mental Health Day
+slug: mental-health-day
 draft: false
-template: "post"
-description: "How does your todo list look today? Is your list growing longer and longer with no end in sight? Do you feel like you are adding to the list faster than crossing items off?
+date: '2018-03-06T21:41:00.000Z'
+description: >-
+  How does your todo list look today? Is your list growing longer and longer
+  with no end in sight? Do you feel like you are adding to the list faster than
+  crossing items off?
 
-Today my good friend Joe..."
+  Today my good friend Joe...
+category: Personal Growth
+tags:
+  - Health
 ---
 
 How does your todo list look today? Is your list growing longer and longer with no end in sight? Do you feel like you are adding to the list faster than crossing items off?
