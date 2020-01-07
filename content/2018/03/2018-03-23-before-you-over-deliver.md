@@ -1,11 +1,18 @@
 ---
-title: "Before You Over Deliver"
-slug: "before-you-over-deliver"
-date: "2018-03-23T21:50:00.000Z"
-tags: ["$100 Startup","Marketing","Books","Startups"]
+template: post
+title: Before You Over Deliver
+slug: before-you-over-deliver
 draft: false
-template: "post"
-description: "> "The easiest and most critical way to reinforce their decision is by giving them quick access to what they paid for. But to go further, you'll want to *overdeliver*: give them more than what they..."
+date: '2018-03-23T21:50:00.000Z'
+description: >-
+  "> The easiest and most critical way to reinforce their decision is by giving
+  them quick access to what they paid for...."
+category: Books
+tags:
+  - $100 Startup
+  - Marketing
+  - Books
+  - Startups
 ---
 
 > "The easiest and most critical way to reinforce their decision is by giving them quick access to what they paid for. But to go further, you'll want to *overdeliver*: give them more than what they expected." (105)
