@@ -1,11 +1,16 @@
 ---
-title: "The Best Accountability Tracker"
-slug: "the-best-accountability-tracker"
-date: "2018-07-03T15:04:53.000Z"
-tags: ["Personal Growth"]
+template: post
+title: The Best Accountability Tracker
+slug: the-best-accountability-tracker
 draft: false
-template: "post"
-description: "There are a ton of ways to track your habits and keep yourself accountable. From apps to websites to journals, these tools are available to help you try and keep on track with your goals. However, the..."
+date: '2018-07-03T15:04:53.000Z'
+description: >-
+  There are a ton of ways to track your habits and keep yourself accountable.
+  From apps to websites to journals, these tools are available to help you try
+  and keep on track with your goals. However, the...
+category: Personal Growth
+tags:
+  - Personal Growth
 ---
 
 There are a ton of ways to track your habits and keep yourself accountable. From apps to websites to journals, these tools are available to help you try and keep on track with your goals. However, the one that works best for me is one you probably already have - a simple, printable calendar.
