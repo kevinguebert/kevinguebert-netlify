@@ -1,11 +1,18 @@
 ---
-title: "Bad Mood? Play a Video Game"
-slug: "bad-mood-play-a-video-game"
-date: "2018-06-30T22:55:07.000Z"
-tags: ["SuperBetter","Books","Personal Growth"]
+template: post
+title: Bad Mood? Play a Video Game
+slug: bad-mood-play-a-video-game
 draft: false
-template: "post"
-description: "I'm going to admit, I am not much a gamer. In my life, I could count on one hand the number of video games that I've actually become engrossed in for more than a week: Burnout, SimCity BuildIt, and..."
+date: '2018-06-30T22:55:07.000Z'
+description: >-
+  I'm going to admit, I am not much a gamer. In my life, I could count on one
+  hand the number of video games that I've actually become engrossed in for more
+  than a week: Burnout, SimCity BuildIt, and...
+category: Books
+tags:
+  - SuperBetter
+  - Books
+  - Personal Growth
 ---
 
 I'm going to admit, I am not much a gamer. In my life, I could count on one hand the number of video games that I've actually become engrossed in for more than a week: Burnout, SimCity BuildIt, and (briefly) Call of Duty. While reading Jane McGonigal's *SuperBetter*, I have become very interested in some of the positive side effects of playing video games.
