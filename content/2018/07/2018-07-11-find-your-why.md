@@ -1,13 +1,16 @@
 ---
-title: "Find Your Why"
-slug: "find-your-why"
-date: "2018-07-11T12:18:23.000Z"
-tags: ["Personal Growth"]
+template: post
+title: Find Your Why
+slug: find-your-why
 draft: false
-template: "post"
-description: "*Post inspired by this morning's journal*
-
-When you are deep into a workout, whether it is your final half mile of a run, last repetition of your squat, or last minute of your AMRAP, what pushes you..."
+date: '2018-07-11T12:18:23.000Z'
+description: >-
+  When you are deep into a workout, whether it is your final half mile of a run,
+  last repetition of your squat, or last minute of your AMRAP, what pushes
+  you...
+category: Personal Growth
+tags:
+  - Personal Growth
 ---
 
 *Post inspired by this morning's journal*
