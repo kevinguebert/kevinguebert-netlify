@@ -1,13 +1,18 @@
 ---
-title: "Simple Object Oriented Programming with Javascript"
-slug: "simple-object-oriented-programming-with-javascript"
-date: "2018-07-06T12:41:42.000Z"
-tags: ["JS","Coding","Tutorials"]
+template: post
+title: Simple Object Oriented Programming with Javascript
+slug: simple-object-oriented-programming-with-javascript
 draft: false
-template: "post"
-description: "## Constructing
-
-With the introduction of ES6, creating classes in Javascript has improved. Even though the new syntax boils down to the same as it was previously done, coming from other OOP languages..."
+date: '2018-07-06T12:41:42.000Z'
+description: >-
+  With the introduction of ES6, creating classes in Javascript has improved.
+  Even though the new syntax boils down to the same as it was previously done,
+  coming from other OOP languages...
+category: Tutorials
+tags:
+  - JS
+  - Coding
+  - Tutorials
 ---
 
 ## Constructing
