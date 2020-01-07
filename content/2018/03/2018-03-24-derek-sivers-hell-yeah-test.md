@@ -1,12 +1,16 @@
 ---
-title: "Derek Sivers' 'Hell Yeah' Test"
-slug: "derek-sivers-hell-yeah-test"
-date: "2018-03-24T21:55:00.000Z"
-tags: ["$100 Startup","Marketing","Startups","Books"]
+template: post
+title: Derek Sivers' 'Hell Yeah' Test
+slug: derek-sivers-hell-yeah-test
 draft: false
-template: "post"
-description: "If you’re not saying 'HELL YEAH!' about something, say 'no'.'"
-
+date: '2018-03-24T21:55:00.000Z'
+description: 'If you’re not saying ''HELL YEAH!'' about something, say ''no''.'''
+category: Books
+tags:
+  - $100 Startup
+  - Marketing
+  - Startups
+  - Books
 ---
 
 > "If you’re not saying “HELL YEAH!” about something, say “no”." -Derek Sivers
