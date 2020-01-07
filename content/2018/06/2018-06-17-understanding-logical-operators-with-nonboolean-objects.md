@@ -1,20 +1,22 @@
 ---
-title: "Understanding Logical Operators with Non-boolean Objects in Javascript"
-slug: "understanding-logical-operators-with-nonboolean-objects"
-date: "2018-06-17T23:24:34.000Z"
-tags: ["Coding","Technology","Tutorials"]
+template: post
+title: Understanding Logical Operators with Non-boolean Objects in Javascript
+slug: understanding-logical-operators-with-nonboolean-objects
 draft: false
-template: "post"
-description: "Usually with logical operators in Javascript, one would use boolean checks. For example:
+date: '2018-06-17T23:24:34.000Z'
+description: >-
+  Usually with logical operators in Javascript, one would use boolean checks.
+  For example:
 
-    if (true) {
-        // do this
-    } else {
-        // do that
-    }
+  if (true) { // do this } else { // do that }
 
 
-With these operations, we can..."
+  With these operations, we can...
+category: Coding
+tags:
+  - Coding
+  - Technology
+  - Tutorials
 ---
 
 Usually with logical operators in Javascript, one would use boolean checks. For example:
