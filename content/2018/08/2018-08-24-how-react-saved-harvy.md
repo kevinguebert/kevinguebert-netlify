@@ -1,11 +1,18 @@
 ---
-title: "How React Saved Harvy"
-slug: "how-react-saved-harvy"
-date: "2018-08-24T14:28:06.000Z"
-tags: ["Coding","Technology","Harvy Dev"]
+template: post
+title: How React Saved Harvy
+slug: how-react-saved-harvy
 draft: false
-template: "post"
-description: "A couple months ago, [Harvy](https://harvy.app) launched to the world after spending a couple weeks as a prototype and a very simple minimal viable product. After the launch, there was a little..."
+date: '2018-08-24T14:28:06.000Z'
+description: >-
+  A couple months ago, Harvy aunched to the world after spending a couple weeks
+  as a prototype and a very simple minimal viable product. After the launch,
+  there was a little...
+category: Harvy
+tags:
+  - Coding
+  - Technology
+  - Harvy Dev
 ---
 
 A couple months ago, [Harvy](https://harvy.app) launched to the world after spending a couple weeks as a prototype and a very simple minimal viable product. After the launch, there was a little fanfare with some small bursts in traffic that helped validate the idea enough for me to continue working on development. However, even though people were interested...I had lost some of my motivation and interest in coding [Harvy](https://harvy.app). So as the summer months went on and my deadline for new features grew nearer, the amount of work being done on [Harvy](https://harvy.app) diminished. This decrease in motivation unfortunately didn't stem from one event that I could push past. To figure out the root cause of my lack of motivation, we have to go back to my first ever job, 5 years ago, in 2013.
