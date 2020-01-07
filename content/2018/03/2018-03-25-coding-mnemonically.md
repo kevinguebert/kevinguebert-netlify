@@ -1,13 +1,16 @@
 ---
-title: "Coding Mnemonically"
-slug: "coding-mnemonically"
-date: "2018-03-25T21:56:00.000Z"
-tags: ["PY4E","Coding"]
+template: post
+title: Coding Mnemonically
+slug: coding-mnemonically
 draft: false
-template: "post"
-description: "> Mnemonic: a device such as a pattern of letters, ideas, or associations that assists in remembering something.
-
-While following my [Python for Everybody](/2018/03/py4e) course, I learned about..."
+date: '2018-03-25T21:56:00.000Z'
+description: >
+  Mnemonic: a device such as a pattern of letters, ideas, or associations that
+  assists in remembering something.
+category: Coding
+tags:
+  - PY4E
+  - Coding
 ---
 
 > Mnemonic: a device such as a pattern of letters, ideas, or associations that assists in remembering something.
