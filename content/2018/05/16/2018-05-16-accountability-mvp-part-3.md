@@ -1,15 +1,21 @@
 ---
-title: "Accountability MVP Part 3"
-slug: "accountability-mvp-part-3"
-date: "2018-05-17T00:22:00.000Z"
-tags: ["Coding","Personal Growth","Technology"]
+template: post
+title: Accountability MVP Part 3
+slug: accountability-mvp-part-3
 draft: false
-template: "post"
-description: "Okay so I've become a bit wrapped up in the [Accountability Calendar](/accountability-calendar/) - and by wrapped up I mean working on it because it is fun.
+date: '2018-05-17T00:22:00.000Z'
+description: >-
+  Okay so I've become a bit wrapped up in the Accountability Calendar - and by
+  wrapped up I mean working on it because it is fun.
 
-Some new features:
+  Some new features:
 
-- Streaks: See what..."
+  - Streaks: See what...
+category: Personal Growth
+tags:
+  - Coding
+  - Personal Growth
+  - Technology
 ---
 
 Okay so I've become a bit wrapped up in the [Accountability Calendar](/accountability-calendar/) - and by wrapped up I mean working on it because it is fun.
