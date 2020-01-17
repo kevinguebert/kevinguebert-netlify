@@ -1,11 +1,17 @@
 ---
-title: "Accountability MVP Part 2"
-slug: "accountability-mvp-part-2"
-date: "2018-05-16T00:22:00.000Z"
-tags: ["Personal Growth","Coding","Technology"]
+template: post
+title: Accountability MVP Part 2
+slug: accountability-mvp-part-2
 draft: false
-template: "post"
-description: "[Three days ago](/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the..."
+date: '2018-05-16T00:22:00.000Z'
+description: >-
+  Three days ago, I talked about a simple, public calendar to update on my goal
+  progress. 
+category: Personal Growth
+tags:
+  - Personal Growth
+  - Coding
+  - Technology
 ---
 
 [Three days ago](/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the calendar](/accountability-calendar/). Now, the progress may not look like much, but I've simplified it much much more coding-wise and made it more extensible.
