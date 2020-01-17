@@ -1,11 +1,18 @@
 ---
-title: "Want to Learn How to Code? Start Here"
-slug: "want-to-learn-how-to-code-start-here"
-date: "2018-04-02T22:27:00.000Z"
-tags: ["PY4E","Coding","Tutorials"]
+template: post
+title: Want to Learn How to Code? Start Here
+slug: want-to-learn-how-to-code-start-here
 draft: false
-template: "post"
-description: "If you've been following along on a little series I've had here on the blog, you will know that recently I've been looking into ways to improve my coding skills. It started off with [Things I wish I..."
+date: '2018-04-02T22:27:00.000Z'
+description: >-
+  If you've been following along on a little series I've had here on the blog,
+  you will know that recently I've been looking into ways to improve my coding
+  skills.
+category: Coding
+tags:
+  - PY4E
+  - Coding
+  - Tutorials
 ---
 
 If you've been following along on a little series I've had here on the blog, you will know that recently I've been looking into ways to improve my coding skills. It started off with [Things I wish I Knew (Coding Edition)](/2018/03/21/things-i-wish-i-knew), followed by [Things I Wish I Knew - Progress](/2018/03/22/coding-course-updates), and then [A New Coding Course](/2018/03/23/py4e) if you would like to check out the timeline of events.
