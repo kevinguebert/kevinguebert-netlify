@@ -19,3 +19,27 @@ Enjoy your runs with music that matches the elevation and difficulty of the path
 ![](/media/Emoodji.png "Emoodji")
 
 A no-code application built with Coda. Winner of the ProductHunt 2019 No-Code Makers Festival
+
+
+
+## BPM Explorer [(Visit)](https://bpm.harvy.app/)
+
+![](/media/harvy-bpm.png "BPM Explorer")
+
+Search for any song's BPM with Spotify.
+
+
+
+## Aww New Tab [(Visit)](https://chrome.google.com/webstore/detail/aww-new-tab/imjpmelkeecfmlnnbobmneokhnamegpd)
+
+![](/media/aww.jpg "Aww New Tab")
+
+A Chrome Extension to spice up your new tab with gifs or images
+
+
+
+## Not Dead Yet [(Visit)](https://chrome.google.com/webstore/detail/not-dead-yet/cemlmfgclebhbiphkabobhgbhgpnhbdc)
+
+![](/media/not-dead.jpg "Not Dead Yet")
+
+Check if a product is dead before clicking on the link.
