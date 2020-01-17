@@ -1,15 +1,17 @@
 ---
-title: "Create, Not Consume"
-slug: "create-not-consume"
-date: "2018-05-03T00:11:00.000Z"
-tags: ["Reflection","Personal Growth"]
+template: post
+title: 'Create, Not Consume'
+slug: create-not-consume
 draft: false
-template: "post"
-description: "Close out of Reddit. Close out of Facebook. Close out of Twitter.
-
-10 minutes later, back on Reddit, back on Facebook, back on Twitter.
-
-Ever have one of those days? The days where you are consuming..."
+date: '2018-05-03T00:11:00.000Z'
+description: |-
+  Close out of Reddit. Close out of Facebook. Close out of Twitter.
+  10 minutes later, back on Reddit, back on Facebook, back on Twitter.
+  Ever have one of those days? The days where you are consuming...
+category: Personal Growth
+tags:
+  - Reflection
+  - Personal Growth
 ---
 
 Close out of Reddit. Close out of Facebook. Close out of Twitter.
