@@ -1,11 +1,16 @@
 ---
-title: "Book Trackers"
-slug: "book-trackers"
-date: "2018-05-25T00:24:00.000Z"
-tags: ["Ideas"]
+template: post
+title: Book Trackers
+slug: book-trackers
 draft: false
-template: "post"
-description: "If you've been following along with this site for a bit, you've noticed a couple design changes. I'm not going to lie, there will probably be another one coming soon, but I wanted to highlight one of..."
+date: '2018-05-25T00:24:00.000Z'
+description: >-
+  If you've been following along with this site for a bit, you've noticed a
+  couple design changes. I'm not going to lie, there will probably be another
+  one coming soon, but I wanted to highlight one of...
+category: Personal Growth
+tags:
+  - Ideas
 ---
 
 If you've been following along with this site for a bit, you've noticed a couple design changes. I'm not going to lie, there will probably be another one coming soon, but I wanted to highlight one of the pain points I've been struggling with in creating this - where to list, keep track of, and showcase books. So far this year, I've read more than I expected to and I want to be able to keep track of these books and share my thoughts on them.
