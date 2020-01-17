@@ -1,13 +1,17 @@
 ---
-title: "Create Meaningful Relationships"
-slug: "create-meaningful-relationships"
-date: "2018-05-11T00:19:00.000Z"
-tags: ["The Power of Moments","Books","Marketing"]
+template: post
+title: Create Meaningful Relationships
+slug: create-meaningful-relationships
 draft: false
-template: "post"
-description: "> 'Relationships don't deepen naturally. In the absence of action, they will stall.' (246)
-
-Think about some of the relationships you have right now. Whether it is coworkers, friends, family, or..."
+date: '2018-05-11T00:19:00.000Z'
+description: >-
+  "Relationships don't deepen naturally. In the absence of action, they will
+  stall."
+category: Books
+tags:
+  - The Power of Moments
+  - Books
+  - Marketing
 ---
 
 > "Relationships don't deepen naturally. In the absence of action, they will stall." (246)
