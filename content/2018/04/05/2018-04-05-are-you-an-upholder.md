@@ -1,11 +1,18 @@
 ---
-title: "Are You an Upholder?"
-slug: "are-you-an-upholder"
-date: "2018-04-05T22:30:00.000Z"
-tags: ["The Four Tendencies","Books","Personal Growth"]
+template: post
+title: 'Four Tendencies: Upholder'
+slug: are-you-an-upholder
 draft: false
-template: "post"
-description: "'Upholders are those people who readily respond to outer and inner expectations alike. They meet the work deadline, and they keep the New Year's resolution, without much fuss.' Hopefully by..."
+date: '2018-04-05T22:30:00.000Z'
+description: >-
+  "Upholders are those people who readily respond to outer and inner
+  expectations alike. They meet the work deadline, and they keep the New Year's
+  resolution, without much fuss."
+category: Books
+tags:
+  - The Four Tendencies
+  - Books
+  - Personal Growth
 ---
 
 > "Upholders are those people who readily respond to outer and inner expectations alike. They meet the work deadline, and they keep the New Year's resolution, without much fuss." (27)
