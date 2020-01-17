@@ -6,24 +6,14 @@ draft: false
 ---
 ## Experience
 
-### Outside
+**Outside** (2017-Present)
 
 Helping bring the outdoors online. Web development with Drupal - PHP, JS, MySQL.
 
-![](/media/outside.png)
-
-
-
-### SapientRazorfish_
+**SapientRazorfish_** (2016-2017)
 
 iOS Mobile App Developer. Created a new hire training program, worked on large-scale client teams 
 
-![](/media/sr.jpg)
-
-
-
-## Activity Buzz
+**Activity Buzz** (2015-2017)
 
 Lead developer (Ruby on Rails + iOS) for a now failed startup in Atlanta
-
-![](/media/ab.png)
