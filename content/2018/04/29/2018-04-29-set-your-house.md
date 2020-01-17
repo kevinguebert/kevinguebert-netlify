@@ -1,13 +1,17 @@
 ---
-title: "Stop Wasting Time and Start Today"
-slug: "set-your-house"
-date: "2018-04-29T21:49:00.000Z"
-tags: ["12 Rules for Life","Books"]
+template: post
+title: Stop Wasting Time and Start Today
+slug: set-your-house
 draft: false
-template: "post"
-description: "> '*Start to stop doing what you know to be wrong.* Start stopping today. Don't waste time questioning how you know that what you're doing is wrong, if you are certain that it is.' (158)
-
-**Rule 6:..."
+date: '2018-04-29T21:49:00.000Z'
+description: >
+  "Start to stop doing what you know to be wrong. Start stopping today. Don't
+  waste time questioning how you know that what you're doing is wrong, if you
+  are certain that it is."
+category: Books
+tags:
+  - 12 Rules for Life
+  - Books
 ---
 
 > "*Start to stop doing what you know to be wrong.* Start stopping today. Don't waste time questioning how you know that what you're doing is wrong, if you are certain that it is." (158)
