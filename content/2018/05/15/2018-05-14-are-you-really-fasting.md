@@ -1,11 +1,18 @@
 ---
-title: "Are You Really Fasting?"
-slug: "are-you-really-fasting"
-date: "2018-05-15T00:21:00.000Z"
-tags: ["The Longevity Diet","Books","Health"]
+template: post
+title: Are You Really Fasting?
+slug: are-you-really-fasting
 draft: false
-template: "post"
-description: "Intermittent fasting, in my humble opinion, is a bit of a buzz word right now. Definitely growing in popularity, people are trying it out and supposedly seeing some of the benefits from it. A couple..."
+date: '2018-05-15T00:21:00.000Z'
+description: >-
+  Intermittent fasting, in my humble opinion, is a bit of a buzz word right now.
+  Definitely growing in popularity, people are trying it out and supposedly
+  seeing some of the benefits from it. A couple...
+category: Books
+tags:
+  - The Longevity Diet
+  - Books
+  - Health
 ---
 
 Intermittent fasting, in my humble opinion, is a bit of a buzz word right now. Definitely growing in popularity, people are trying it out and supposedly seeing some of the benefits from it. A couple weeks ago, a friend of mine talked about how he participates in intermittent fasting. I probed him more about it, and he talked about how he usually skips breakfast and fasts until lunch. I asked him a little more about his diet and how it was going, and he added that he does it every once in a while. The day before he had breakfast but that morning, he was fasting.
