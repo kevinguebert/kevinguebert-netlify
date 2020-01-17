@@ -1,11 +1,16 @@
 ---
-title: "12 Rules for Life - A Must Read"
-slug: "12-rules-for-life-a-must-read"
-date: "2018-05-04T00:12:00.000Z"
-tags: ["12 Rules for Life","Books"]
+template: post
+title: 12 Rules for Life - A Must Read
+slug: 12-rules-for-life-a-must-read
 draft: false
-template: "post"
-description: "If you asked me to recommend you a book to read right now, I would recommend you 2 books. The first one is *Extreme Ownership* by Jocko Willink. The second one is *12 Rules for Life: An Antidote to..."
+date: '2018-05-04T00:12:00.000Z'
+description: >-
+  If you asked me to recommend you a book to read right now, I would recommend
+  you 2 books. 
+category: Books
+tags:
+  - 12 Rules for Life
+  - Books
 ---
 
 If you asked me to recommend you a book to read right now, I would recommend you 2 books. The first one is *Extreme Ownership* by Jocko Willink. The second one is *12 Rules for Life: An Antidote to Chaos* by Jordan B. Peterson. These two books are battling it out for the top spot on my list of favorite books of this year.
