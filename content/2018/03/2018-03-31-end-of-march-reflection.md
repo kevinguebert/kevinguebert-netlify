@@ -1,15 +1,15 @@
 ---
-title: "End of March Reflection"
-slug: "end-of-march-reflection"
-date: "2018-03-31T22:01:00.000Z"
-tags: ["Reflection","Personal Growth"]
+template: post
+title: End of March Reflection
+slug: end-of-march-reflection
 draft: false
-template: "post"
-description: "March has come and gone, time to reflect on any progress of my goals!
-
-#### Goal: By Memorial Day 2018, I want to have 100 new posts on a website about something I have learned.
-
-If you want to learn..."
+date: '2018-03-31T22:01:00.000Z'
+description: |
+  March has come and gone, time to reflect on any progress of my goals!
+category: Personal Growth
+tags:
+  - Reflection
+  - Personal Growth
 ---
 
 March has come and gone, time to reflect on any progress of my goals!
