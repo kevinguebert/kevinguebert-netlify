@@ -1,15 +1,14 @@
 ---
-title: "April Review"
-slug: "april-review"
-date: "2018-05-02T00:11:00.000Z"
-tags: ["Reflection","Personal Growth"]
+template: post
+title: April Review
+slug: april-review
 draft: false
-template: "post"
-description: "April is over, May is here. Time to check in on those goals.
-
-> Goal: By Memorial Day 2018, I want to have 100 new posts on a website about something I have learned.
-
-If you want to learn more about..."
+date: '2018-05-02T00:11:00.000Z'
+description: 'April is over, May is here. Time to check in on those goals.'
+category: Personal Growth
+tags:
+  - Reflection
+  - Personal Growth
 ---
 
 April is over, May is here. Time to check in on those goals.
