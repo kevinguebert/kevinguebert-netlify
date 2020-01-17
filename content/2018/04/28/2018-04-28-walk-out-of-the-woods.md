@@ -1,13 +1,16 @@
 ---
-title: "A Walk Out of the Woods"
-slug: "walk-out-of-the-woods"
-date: "2018-04-28T21:49:00.000Z"
-tags: ["Books","Walk in the Woods"]
+template: post
+title: A Walk Out of the Woods
+slug: walk-out-of-the-woods
 draft: false
-template: "post"
-description: "> 'A terribly misguided and terribly funny tale of adventure...choke on your coffee funny.' - *Washington Post*
-
-Okay this may be a bit against the norm here, but, reading that quote above talking..."
+date: '2018-04-28T21:49:00.000Z'
+description: >
+  "A terribly misguided and terribly funny tale of adventure...choke on your
+  coffee funny." - *Washington Post*
+category: Books
+tags:
+  - Books
+  - Walk in the Woods
 ---
 
 > "A terribly misguided and terribly funny tale of adventure...choke on your coffee funny." - *Washington Post*
