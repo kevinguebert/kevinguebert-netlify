@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://kevinguebert.com',
   pathPrefix: '/',
   title: 'Kevin Guebert - Blog',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Full stack web developer and part time iOS developer with experience ranging from startups to enterprise software.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 8,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-60402110-1',
   useKatex: false,
   menu: [
     {
@@ -16,20 +16,24 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'Projects',
+      path: '/pages/projects'
+    },
+    {
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'Kevin Guebert',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Full stack web developer and part time iOS developer with experience ranging from startups to enterprise software. I write for fun - all opinions are my own',
     contacts: {
-      email: '',
+      email: 'kevin.guebert@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'kevinguebert',

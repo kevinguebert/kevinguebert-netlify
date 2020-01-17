@@ -29,9 +29,10 @@
     }
 
     &-description {
+      display: inline;
       font-size: $typographic-base-font-size;
       @include line-height(1);
-      @include margin-bottom(.75);
+      @include margin-bottom(.65);
     }
 
     &-meta {
@@ -65,6 +66,8 @@
     }
 
     &-readmore {
+      display: inline;
+      margin-left: 5px;
       font-size: $typographic-base-font-size;
       color: $color-primary;
 
