@@ -1,13 +1,15 @@
 ---
-title: "How Have You Failed Today?"
-slug: "how-have-you-failed-today"
-date: "2018-05-09T00:18:00.000Z"
-tags: ["The Power of Moments","Books","Marketing"]
+template: post
+title: How Have You Failed Today?
+slug: how-have-you-failed-today
 draft: false
-template: "post"
-description: "> 'What did you guys fail at this week?' (130)
-
-What a powerful question. What have you failed at this week? The founder of Spanxx, Sara Blakely, was asked this question at the dinner table every..."
+date: '2018-05-09T00:18:00.000Z'
+description: '''What did you guys fail at this week?"'
+category: Books
+tags:
+  - The Power of Moments
+  - Books
+  - Marketing
 ---
 
 > "What did you guys fail at this week?" (130)
