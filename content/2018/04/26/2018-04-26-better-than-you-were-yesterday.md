@@ -1,11 +1,17 @@
 ---
-title: "Better Than You Were Yesterday"
-slug: "better-than-you-were-yesterday"
-date: "2018-04-26T21:48:00.000Z"
-tags: ["12 Rules for Life","Books"]
+template: post
+title: Better Than You Were Yesterday
+slug: better-than-you-were-yesterday
 draft: false
-template: "post"
-description: "> 'You are discovering who you are, and what you want, and what you are willing to do. You are finding that the solutions to your particular problems have to be tailored to you, personally and..."
+date: '2018-04-26T21:48:00.000Z'
+description: >-
+  "You are discovering who you are, and what you want, and what you are willing
+  to do. You are finding that the solutions to your particular problems have to
+  be tailored to you, personally and..."
+category: Books
+tags:
+  - 12 Rules for Life
+  - Books
 ---
 
 > "You are discovering who you are, and what you want, and what you are willing to do. You are finding that the solutions to your particular problems have to be tailored to you, personally and precisely. You are less concerned with the actions of other people, because you have plenty to do yourself." (110)
