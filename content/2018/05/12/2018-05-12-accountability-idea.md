@@ -5,10 +5,10 @@ date: "2018-05-13T00:20:00.000Z"
 tags: ["Personal Growth","Ideas","Coding","Technology"]
 draft: false
 template: "post"
-description: "[A while back](/blog/2018/03/04/march-tracking) I wrote about how I use IFTTT and Zapier to do some basic accountability tracking. By using a Google Calendar and the two mentioned services, every time..."
+description: "[A while back](/2018/03/04/march-tracking) I wrote about how I use IFTTT and Zapier to do some basic accountability tracking. By using a Google Calendar and the two mentioned services, every time..."
 ---
 
-[A while back](/blog/2018/03/04/march-tracking) I wrote about how I use IFTTT and Zapier to do some basic accountability tracking. By using a Google Calendar and the two mentioned services, every time I completed a task that I set up as one I wanted to track, it would post to my calendar. Thinking more about it today, it could be fairly simple to get a service together to have a user highlight 2-3 top priority habits and create a visual system to keep them accountable. On my wall right now, I have 3 calendars set up so I can cross off the tasks I complete every day. The idea is to transfer that to a publicily accountable place.
+[A while back](/2018/03/04/march-tracking) I wrote about how I use IFTTT and Zapier to do some basic accountability tracking. By using a Google Calendar and the two mentioned services, every time I completed a task that I set up as one I wanted to track, it would post to my calendar. Thinking more about it today, it could be fairly simple to get a service together to have a user highlight 2-3 top priority habits and create a visual system to keep them accountable. On my wall right now, I have 3 calendars set up so I can cross off the tasks I complete every day. The idea is to transfer that to a publicily accountable place.
 
 Brainstorm:
 

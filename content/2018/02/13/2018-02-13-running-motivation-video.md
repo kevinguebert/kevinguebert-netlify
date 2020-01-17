@@ -18,4 +18,4 @@ I can't tell you how many times, when I was training for a race, I didn't want t
 
 REI created/sponsored an inspiring piece about not just running any race, but a 100 Mile race. Need some motivation? Just watch.
 
-[REI Presents: How to Run 100 Miles](https://www.rei.com/blog/run/how-to-run-a-100-miles)
+[REI Presents: How to Run 100 Miles](https://www.rei.com/run/how-to-run-a-100-miles)

@@ -17,7 +17,7 @@ February has come to a close! A short month, but still time to reflect on progre
 
 #### Goal: By Memorial Day 2018, I want to have 100 new posts on a website about something I have learned.
 
-If you want to learn more about this goal, check out [End of January Reflection](/blog/2018/01/31/z-month-1-recap.html).
+If you want to learn more about this goal, check out [End of January Reflection](/2018/01/31/z-month-1-recap.html).
 
 **Metrics**: In January, I completed exactly 20 blog posts. To meet my goal of 100 new posts by Memorial Day, I would have to average 20 posts a month(ish). In February, I completed **13 blog posts**. That puts me **7 behind the pace** 🙃. Not exactly what I am looking for.
 

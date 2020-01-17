@@ -10,7 +10,7 @@ description: "'Upholders are those people who readily respond to outer and inner
 
 > "Upholders are those people who readily respond to outer and inner expectations alike. They meet the work deadline, and they keep the New Year's resolution, without much fuss." (27)
 
-Hopefully by now you've [take Gretchen Rubin's quiz](/blog/2018/04/04/identify-your-tendency) to find out which tendency you are, but ask yourself if you think these quotes apply to you:
+Hopefully by now you've [take Gretchen Rubin's quiz](/2018/04/04/identify-your-tendency) to find out which tendency you are, but ask yourself if you think these quotes apply to you:
 
 - "You observe the rules even when it's more sensible to ignore them"
 - If there is a bathroom marked with the opposite sex, you are unable to use it even if it is a single bathroom

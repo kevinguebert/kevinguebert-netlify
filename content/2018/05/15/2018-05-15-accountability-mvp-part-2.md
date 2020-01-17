@@ -5,10 +5,10 @@ date: "2018-05-16T00:22:00.000Z"
 tags: ["Personal Growth","Coding","Technology"]
 draft: false
 template: "post"
-description: "[Three days ago](/blog/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the..."
+description: "[Three days ago](/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the..."
 ---
 
-[Three days ago](/blog/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the calendar](/accountability-calendar/). Now, the progress may not look like much, but I've simplified it much much more coding-wise and made it more extensible.
+[Three days ago](/2018/05/12/accountability-idea), I talked about a simple, public calendar to update on my goal progress. [Here is the current version of the calendar](/accountability-calendar/). Now, the progress may not look like much, but I've simplified it much much more coding-wise and made it more extensible.
 
 Basically what was changed is that instead of manually creating a calendar for each one, it now dynamically creates a calendar based off of a JSON (data) file. [You can actually view the file online](https://gist.github.com/kevinguebert/a31a2e8a09d7054dccca805ee05cb8f3) that I am using. So here is the flow:
 
