@@ -1,11 +1,17 @@
 ---
-title: "Forgive Yourself"
-slug: "forgive-yourself"
-date: "2018-05-24T00:24:00.000Z"
-tags: ["Own the Day, Own Your Life","Books"]
+template: post
+title: Forgive Yourself
+slug: forgive-yourself
 draft: false
-template: "post"
-description: "> 'If we don't forgive ourselves, all that knowledge from our past failures will instead petrify into useless information, and we will continue to believe deep down that we deserve to get beaten down..."
+date: '2018-05-24T00:24:00.000Z'
+description: >-
+  "If we don't forgive ourselves, all that knowledge from our past failures will
+  instead petrify into useless information, and we will continue to believe deep
+  down that we deserve to get beaten down..."
+category: Books
+tags:
+  - 'Own the Day, Own Your Life'
+  - Books
 ---
 
 > "If we don't forgive ourselves, all that knowledge from our past failures will instead petrify into useless information, and we will continue to believe deep down that we deserve to get beaten down by life." (365)
