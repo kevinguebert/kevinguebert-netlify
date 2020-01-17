@@ -1,11 +1,17 @@
 ---
-title: "At the Very Least, Stand Up Straight and Don't Be a Lobster"
-slug: "at-the-very-least-stand-up-straight-and-dont-be-a-lobster"
-date: "2018-04-20T21:46:00.000Z"
-tags: ["12 Rules for Life","Books"]
+template: post
+title: 'At the Very Least, Stand Up Straight and Don''t Be a Lobster'
+slug: at-the-very-least-stand-up-straight-and-dont-be-a-lobster
 draft: false
-template: "post"
-description: "> 'To stand up straight with your shoulders back is to accept the terrible responsibility of life, with eyes wide open. It means deciding to voluntarily transform the chaos of potential into the..."
+date: '2018-04-20T21:46:00.000Z'
+description: >-
+  "To stand up straight with your shoulders back is to accept the terrible
+  responsibility of life, with eyes wide open. It means deciding to voluntarily
+  transform the chaos of potential into the..."
+category: Books
+tags:
+  - 12 Rules for Life
+  - Books
 ---
 
 > "To stand up straight with your shoulders back is to accept the terrible responsibility of life, with eyes wide open. It means deciding to voluntarily transform the chaos of potential into the realities of habitable order." (27)
