@@ -3,7 +3,7 @@ template: post
 title: 3 Things You Didn't Know Your Home Office Needed
 slug: 3-things-your-home-office
 socialImage: /media/scottish-fold_01.jpg
-draft: true
+draft: false
 date: 2020-01-27T19:17:32.871Z
 description: >-
   I've now worked from home for 6 months and these are the top 3 things that I
@@ -31,10 +31,3 @@ What are you waiting for? [Buy now!](https://www.amazon.com/Mr-Coffee-Warmer-Off
 Wait hold up, an animal to take care of? Oh you bet. You know those long house of sitting hunched over your desk with your back aching? Have a cat sit on your lap and start petting him/her as cats purring "helps to heal bones, tendons, and muscles" ([according to science](https://www.goodnet.org/articles/7-scientifically-proven-health-benefits-being-cat-ownerhttps://www.goodnet.org/articles/7-scientifically-proven-health-benefits-being-cat-owner)). No more need to get up and stretch!
 
 [Visit your local humane society to adopt one today](https://www.google.com/search?q=humane+shelter&oq=humane+shelter&aqs=chrome..69i57j0l7.2860j1j7&sourceid=chrome&ie=UTF-8https://www.google.com/search?q=humane+shelter&oq=humane+shelter&aqs=chrome..69i57j0l7.2860j1j7&sourceid=chrome&ie=UTF-8)
-
-
-## Your Old Textbooks
-
-![](/media/old-textbooks.jpg)
-
-Remember spending $435932 on textbooks? Well we've finally found the right use for them! Stack them up underneath each other and save the $200 on a monitor stand! Finally, after all that money and all those times not opening the text books, they can finally go to a good use!
