@@ -5,7 +5,7 @@ slug: integrating-maps-with-harvy
 draft: false
 date: '2018-09-30T11:38:00.000Z'
 description: >-
-  If you haven't checked it out yet, last week [maps were introduced to Harvy. I
+  If you haven't checked it out yet, last week maps were introduced to Harvy. I
   am extremely excited to bring this functionality (well, the start of it) to
   Harvy and cannot...
 category: Harvy
