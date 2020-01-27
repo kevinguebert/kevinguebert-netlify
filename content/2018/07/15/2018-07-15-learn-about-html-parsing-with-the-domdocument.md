@@ -7,11 +7,12 @@ date: '2018-07-15T13:33:12.000Z'
 description: >
   The DOMDocument is a class built into PHP that helps developers navigate an
   HTML document tree and provides methods to help interact with the document.
-category: 'Tutorials, Popular'
+category: Tutorials
 tags:
   - Coding
   - Tutorials
   - Technology
+  - Popular
 ---
 > The DOMDocument is a class built in to PHP that helps developers navigate an HTML document tree and provides methods to help interact with the document.
 
