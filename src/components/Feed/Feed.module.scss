@@ -3,7 +3,7 @@
 
 .feed {
   &__item {
-    @include margin-bottom(1.25);
+    @include margin-bottom(2.00);
 
     &:last-child {
       @include margin-bottom(.5);

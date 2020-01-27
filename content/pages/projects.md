@@ -10,6 +10,9 @@ Enjoy your runs with music that matches the elevation and difficulty of the path
 
 ## Emoodji [(Visit)](https://coda.io/d/Emoodji_d2tRkelpm2c/_suusf)
 
+![](/media/Emoodji.png "Emoodji")
+
+
 A no-code application built with Coda. Winner of the ProductHunt 2019 No-Code Makers Festival
 
 ## BPM Explorer [(Visit)](https://bpm.harvy.app/)
