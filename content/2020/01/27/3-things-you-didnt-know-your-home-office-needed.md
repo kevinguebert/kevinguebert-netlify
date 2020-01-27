@@ -12,7 +12,7 @@ category: Remote Work
 tags:
   - Remote Work
 ---
-Since June of 2019 I have been working remotely full time. I am blessed with the opportunity and fortune of having an extra bedroom that I use as my home office. I Since June of 2019 I have been working remotely full time. I am blessed with the opportunity and fortune of having an extra bedroom that I use as my home office. I **highly** recommend creating a separate space for your remote work but that's for another time. Today I want to share the top 3 **must haves** for any home office.
+Since June of 2019 I have been working remotely full time. I am blessed with the opportunity and fortune of having an extra bedroom that I use as my home office. I **highly** recommend creating a separate space for your remote work but that's for another time. Today I want to share the top 3 **must haves** for any home office.
 
 ## Mr. Coffee Mug Warmer
 
