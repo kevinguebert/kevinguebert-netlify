@@ -1,0 +1,31 @@
+// @import '../../assets/scss/main.scss';
+
+.section {
+  // padding-top: 20px;
+  padding-bottom: 20px;
+
+  h6 {
+    font-size: 2rem;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+}
+
+.inline {
+  display: inline-block;
+}
+
+.more-link {
+  float: right;
+  padding-top: 7px;
+  font-size:1.5rem;
+  // color:$color-gray;
+  color: "#000";
+}
+
+.section-units {
+  display: flex;
+  flex: 0 1 auto;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

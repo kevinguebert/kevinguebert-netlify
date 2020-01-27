@@ -3,33 +3,70 @@ import React from 'react';
 import moment from 'moment';
 import { Link } from 'gatsby';
 import type { Edges } from '../../types';
-// import styles from './Feed.module.scss';
+import styles from './Projects.module.scss';
+import Section from '../Section';
+import ExperienceUnit from '../ExperienceUnit';
+
+import emoodji from '../../../static/media/projects/Emoodji.png'
+import harvyLogo from '../../../static/media/projects/harvy-social.jpg'
+import harvyBPMLogo from '../../../static/media/projects/harvy-bpm.png'
+import awLogo from '../../../static/media/projects/aww.jpg'
+import notDead from '../../../static/media/projects/not-dead.jpg'
 
 type Props = {
   edges: Edges
 };
 
-const Homepage = ({ edges }: Props) => (
-  <div className={styles['feed']}>
-    {edges.map((edge) => (
-      <div className={styles['feed__item']} key={edge.node.fields.slug}>
-        <div className={styles['feed__item-meta']}>
-          <time className={styles['feed__item-meta-time']} dateTime={moment(edge.node.frontmatter.date).format('MMMM D, YYYY')}>
-            {moment(edge.node.frontmatter.date).format('MMMM YYYY')}
-          </time>
-          <span className={styles['feed__item-meta-divider']} />
-          <span className={styles['feed__item-meta-category']}>
-            <Link to={edge.node.fields.categorySlug} className={styles['feed__item-meta-category-link']}>{edge.node.frontmatter.category}</Link>
-          </span>
-        </div>
-        <h2 className={styles['feed__item-title']}>
-          <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
-        </h2>
-        <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
-        <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>Read</Link>
-      </div>
-    ))}
+const Projects = ({ edges }: Props) => (
+  <div>
+    <Section title="Projects">
+      <ExperienceUnit
+        logo={harvyLogo}
+        colour="#ff8c36"
+        title="Harvy"
+        cover
+        link="https://harvy.app"
+        timeperiod="2018 - Present"
+        subtitle="Enjoy your runs with music that matches the elevation and difficulty of the path ahead. Side project built with React + Swift. Work in Progress."
+      />
+      <ExperienceUnit
+        logo={emoodji}
+        colour="#33435f"
+        title="Emoodji"
+        cover
+        link="https://coda.io/d/Emoodji_d2tRkelpm2c/_suusf"
+        timeperiod="2019"
+        subtitle="A no-code application built with Coda. Winner of the ProductHunt 2019 No-Code Makers Festival"
+      />
+      <ExperienceUnit
+        logo={harvyBPMLogo}
+        colour="#312F31"
+        title="BPM Explorer"
+        cover
+        link="https://bpm.harvy.app"
+        timeperiod="2019"
+        subtitle="Search for any song's BPM with Spotify."
+      />
+      <ExperienceUnit
+        logo={awLogo}
+        colour="#312F31"
+        title="Aww New Tab"
+        cover
+        link="https://chrome.google.com/webstore/detail/aww-new-tab/imjpmelkeecfmlnnbobmneokhnamegpd"
+        timeperiod="2019"
+        subtitle="A Chrome Extension to spice up your new tab with gifs or images"
+      />
+      <ExperienceUnit
+        logo={notDead}
+        colour="#312F31"
+        title="Not Dead Yet"
+        cover
+        link="https://chrome.google.com/webstore/detail/not-dead-yet/cemlmfgclebhbiphkabobhgbhgpnhbdc"
+        timeperiod="2019"
+        subtitle="Check if a product is dead before clicking on the link."
+      />
+    </Section>
   </div>
 );
 
-export default Homepage;
+export default Projects;

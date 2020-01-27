@@ -4,6 +4,8 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
+import Projects from '../components/Projects';
+import About from '../components/About';
 import { useSiteMetadata } from '../hooks';
 import type { MarkdownRemark } from '../types';
 
@@ -19,7 +21,31 @@ const PageTemplate = ({ data }: Props) => {
   const { frontmatter } = data.markdownRemark;
   const { title: pageTitle, description: pageDescription, socialImage } = frontmatter;
   const metaDescription = pageDescription !== null ? pageDescription : siteSubtitle;
+  console.log('here', pageTitle);
 
+  if (pageTitle == "Projects") {
+    return (
+      <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
+        <Sidebar />
+        <Page>
+          <Projects title={pageTitle}>
+          </Projects>
+        </Page>
+      </Layout>
+    )
+  } else if (pageTitle == "About") {
+    console.log("Im here");
+    return (
+      <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
+        <Sidebar />
+        <Page title={pageTitle}>
+          <div dangerouslySetInnerHTML={{ __html: pageBody }} />
+          <About />
+        </Page>
+      </Layout>
+    )
+
+  }
   return (
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
       <Sidebar />
