@@ -17,6 +17,7 @@ tags:
   - Coding
   - Technology
   - Tutorials
+  - Popular
 ---
 
 Usually with logical operators in Javascript, one would use boolean checks. For example:
