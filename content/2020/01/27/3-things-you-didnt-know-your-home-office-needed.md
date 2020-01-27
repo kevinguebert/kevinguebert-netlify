@@ -36,4 +36,4 @@ Wait hold up, an animal to take care of? Oh you bet. You know those long house o
 
 ![](/media/old-textbooks.jpg)
 
-Remember spending $435932 on textbooks? Well we've finally found the right use for them! Stack them up underneath each other and save the $200 on a monitor stand! Finally, after all that money and all those times not opening the text books, they can finally go to a good use!
+Remember spending thousands on textbooks? Well we've finally found the right use for them! Stack them up underneath each other and save the 200 dollars on a monitor stand! Finally, after all that money and all those times not opening the text books, they can finally go to a good use!
