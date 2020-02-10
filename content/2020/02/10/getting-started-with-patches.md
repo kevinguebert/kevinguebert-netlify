@@ -3,8 +3,8 @@ template: post
 title: Getting Started with Patches
 slug: getting-started-patches
 socialImage: /media/fabian-grohs-524350-unsplash_h.jpg
-draft: true
-date: 2020-02-10T19:21:24.089Z
+draft: false
+date: 2018-05-22T18:21:24.089Z
 description: >-
   A patch is a specific file that outlines all the changes made between two sets
   of files.
