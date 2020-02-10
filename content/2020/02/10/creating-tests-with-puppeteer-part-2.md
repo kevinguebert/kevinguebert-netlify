@@ -2,7 +2,7 @@
 template: post
 title: 'Creating Tests with Puppeteer: Part 2'
 slug: creating-tests-puppeteer-part-2
-socialImage: /media/puppeter_h.jpg
+socialImage: /media/puppeteer-2_h.jpg
 draft: false
 date: 2018-08-30T18:38:36.939Z
 description: >-
