@@ -13,11 +13,11 @@ tags:
 ---
 ## Backstory
 
-Over the past few months, the rise of #nocode has been hard to miss. Indiehackers, HackerNews, ProductHunt, and Reddit have all seen a rise in makers building without the need for any (or at least, not as much) coding. Last Spring I participated in my first "No-code Hackathon" sponsored by ProductHunt and Coda. After the work there, I won "Maker in Chief" for my PANAS Moasdod Tracker. However, as fun as that was, I didn't think it had the foundation around it to transform it into a side business, side hustle, or even just a hobby.
+Over the past few months, the rise of #nocode has been hard to miss. Indiehackers, HackerNews, ProductHunt, and Reddit have all seen a rise in makers building without the need for any (or at least, not as much) coding. Last Spring I participated in my first "No-code Hackathon" sponsored by ProductHunt and Coda. After the work there, I won "Maker in Chief" for my PANAS Mood Tracker. However, as fun as that was, I didn't think it had the foundation around it to transform it into a side business, side hustle, or even just a hobby.
 
 ## The Idea
 
-I'm not 100% ready to share the idea yet but I can share that it (surprise surprise) has to do with audio again.[Harvy](https://harvy.app)already deals with music, Spotify, and audio which has been a blast to build on. This new idea is now a deep dive into some new technology I've learned about over the past couple of weeks that I believe has some fascinating opportunities to work with.
+I'm not 100% ready to share the idea yet but I can share that it (surprise surprise) has to do with audio again. [Harvy](https://harvy.app) already deals with music, Spotify, and audio which has been a blast to build on. This new idea is now a deep dive into some new technology I've learned about over the past couple of weeks that I believe has some fascinating opportunities to work with.
 
 ## Goal
 
@@ -25,6 +25,6 @@ With this project, I'm hoping to get back into the world of learning. I've chose
 
 ## Timeline
 
-My MVP is on its way. As usual, I am not a designer so that has been a frustrating challenge. I would rather work on the connections and foundation over the design. If you are a designer and would like to collaborate, hit me up. I would be happy to share what I have so far. My goal is to have something**solid**by the end of March. What does solid mean? It means all the parts that I forget about including what happens when someone deletes an account or wants to edit their profile. Those smaller tasks that are still needed but take up some work.
+My MVP is on its way. As usual, I am not a designer so that has been a frustrating challenge. I would rather work on the connections and foundation over the design. If you are a designer and would like to collaborate, hit me up. I would be happy to share what I have so far. My goal is to have something **solid** by the end of March. What does solid mean? It means all the parts that I forget about including what happens when someone deletes an account or wants to edit their profile. Those smaller tasks that are still needed but take up some work.
 
 I hope to update here as I go along, be on the lookout.
