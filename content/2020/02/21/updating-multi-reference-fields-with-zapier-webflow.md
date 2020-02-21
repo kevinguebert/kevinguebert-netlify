@@ -25,7 +25,7 @@ To do this in totality will take 4 steps. I use Google Sheets as my intermediary
 
 In my "Lookup Spreadsheet Row in Google Sheets", I am looking up the corresponding row to see if there are already referenced items. For a User that has multiple Posts, I would be looking up the User and return the column for Posts reference. 
 
-That column will either be empty or be a string of referenced IDs like `"1234", "ABCD", "34543"`
+That column will either be empty or be a string of referenced IDs like ```"1234", "ABCD", "34543"```
 
 #### Step 2
 
@@ -42,11 +42,11 @@ result = result.join(", ");
 output = [{articles: result}];
 ```
 
-The code goes through the Post column. If there is currently data there (already has posts), it splits the string into an array from "1234", "ABCD", "34543" into  ["1234", "ABCD", "34543"].
+The code goes through the Post column. If there is currently data there (already has posts), it splits the string into an array from ```"1234", "ABCD", "34543"``` into  ```["1234", "ABCD", "34543"]```.
 
-Then, with the new Post ID, I push that onto the end of the array so it then becomes ["1234", "ABCD", "34543", "NEW_POST_ID"].
+Then, with the new Post ID, I push that onto the end of the array so it then becomes ```["1234", "ABCD", "34543", "NEW_POST_ID"]```.
 
-Lastly, because I can't have an array and actually need a string, I concatenate it all together into "1234", "ABCD", "34543", "NEW_POST_ID".
+Lastly, because I can't have an array and actually need a string, I concatenate it all together into ```"1234", "ABCD", "34543", "NEW_POST_ID"```.
 
 #### Step 3
 
