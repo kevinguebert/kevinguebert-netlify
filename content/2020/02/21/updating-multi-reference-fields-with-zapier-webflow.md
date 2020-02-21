@@ -42,11 +42,11 @@ result = result.join(", ");
 output = [{articles: result}];
 ```
 
-The code goes through the Post column. If there is currently data there (already has posts), it splits the string into an array from `"1234", "ABCD", "34543" `into `["1234", "ABCD", "34543"].`
+The code goes through the Post column. If there is currently data there (already has posts), it splits the string into an array from "1234", "ABCD", "34543" into  ["1234", "ABCD", "34543"].
 
-Then, with the new Post ID, I push that onto the end of the array so it then becomes `["1234", "ABCD", "34543", "NEW_POST_ID"].`
+Then, with the new Post ID, I push that onto the end of the array so it then becomes ["1234", "ABCD", "34543", "NEW_POST_ID"].
 
-Lastly, because I can't have an array and actually need a string, I concatenate it all together into `"1234", "ABCD", "34543", "NEW_POST_ID".`
+Lastly, because I can't have an array and actually need a string, I concatenate it all together into "1234", "ABCD", "34543", "NEW_POST_ID".
 
 #### Step 3
 
@@ -59,13 +59,9 @@ Lastly, a PUT request to the Webflow API. I follow the documentation <https://de
 Key Points from the Screenshot below:
 
 1. Make sure to update the {CollectionID} with your collection.
-
 2. The {Webflow_ID} is the ID of the Webflow item you are trying to update. In this scenario, it would be the User
-
 3. The fields "name", "slug", "_archived", and "_draft" are all required in the request.
-
 4. For the "articles" field (this is the Posts), we want to pass in the Javascript output from the previous step into an array. So that is literally `[{Result from previous step}]` with the "\[ ]" around the output. This is the format that Webflow accepts in their API
-
 5. Don't forget the Headers at the bottom along with your authorization token which you can find at https://webflow.com/dashboard/sites/{website}/integrations
 
 ![](/media/screen-shot-2020-02-21-at-9.32.32-am.png)
